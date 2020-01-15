@@ -140,4 +140,11 @@ public class LoginPage extends TestBase {
 		return open;
 	}
 
+	
+	public void gitTest(){
+		System.out.println("This is for testing git code");
+	}
+	
+	
+	
 }
