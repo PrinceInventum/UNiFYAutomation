@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="UNIFY_Automation">
+
+	<!-- <listeners>
+		
+		<listener class-name="com.unify.utill.ExtentReporterNG"/>
+		<listener class-name="com.unify.utill.AnnotationTransformer"/>
+		
+	</listeners> -->
+
+
+	<test name="TestFirefox">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="com.unify.testPages.LoginPageTest" />
+			<class name="com.unify.testPages.DashboardPageTest" />
+			<class name="com.unify.testPages.CreateOrganisationTest" />
+			<class name="com.unify.testPages.CalculateTimeTest" />
+			<class name="com.unify.testPages.ServicePlanTest" />
+			<class name="com.unify.testPages.DomainManagerTest" />
+			<class name="com.unify.testPages.SettingsPageTest" />
+
+		</classes>
+	</test>
+
+	<test name="TestChrome">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.unify.testPages.LoginPageTest" />
+			<class name="com.unify.testPages.DashboardPageTest" />
+			<class name="com.unify.testPages.CreateOrganisationTest" />
+			<class name="com.unify.testPages.ServicePlanTest" />
+			<class name="com.unify.testPages.CalculateTimeTest" />
+			<class name="com.unify.testPages.DomainManagerTest" />
+			<class name="com.unify.testPages.SettingsPageTest" />
+
+		</classes>
+	</test>
+
+
+
+	<!-- <test name="Debugging_Purpose">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.unify.testPages.CalculateTimeTest" />
+		</classes>
+	</test> -->
+
+
+</suite>

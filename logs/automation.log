@@ -1,0 +1,1906 @@
+05/22/2019 14:39:41.173 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[62]) VerifyDmainText
+----------------------------------------------------------------
+05/22/2019 14:41:05.834 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[62]) VerifyDmainText
+----------------------------------------------------------------
+05/22/2019 14:42:17.601 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[62]) VerifyDmainText
+----------------------------------------------------------------
+05/22/2019 14:45:17.006 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[62]) VerifyDmainText
+----------------------------------------------------------------
+05/22/2019 14:48:26.069 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[62]) VerifyDmainText
+----------------------------------------------------------------
+05/22/2019 14:54:38.229 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[62]) VerifyDmainText
+----------------------------------------------------------------
+05/22/2019 14:57:31.834 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[62]) VerifyDmainText
+----------------------------------------------------------------
+05/22/2019 14:59:52.735 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[62]) VerifyDmainText
+----------------------------------------------------------------
+05/22/2019 15:00:26.892 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[62]) VerifyDmainText
+----------------------------------------------------------------
+05/22/2019 15:01:27.429 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[62]) VerifyDmainText
+----------------------------------------------------------------
+05/22/2019 15:02:19.499 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[62]) VerifyDmainText
+----------------------------------------------------------------
+05/22/2019 15:03:58.167 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[62]) VerifyDmainText
+----------------------------------------------------------------
+05/22/2019 15:21:38.037 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[62]) VerifyDmainText
+----------------------------------------------------------------
+05/22/2019 15:21:55.624 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[62]) VerifyDmainText
+----------------------------------------------------------------
+05/22/2019 15:23:08.466 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[62]) VerifyDmainText
+----------------------------------------------------------------
+05/22/2019 15:49:40.615 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[62]) VerifyDmainText
+----------------------------------------------------------------
+05/22/2019 15:53:09.551 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[62]) VerifyDmainText
+----------------------------------------------------------------
+05/23/2019 10:48:54.921 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[62]) VerifyDmainText
+----------------------------------------------------------------
+05/23/2019 10:49:19.647 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[42]) veriyDomainManager
+----------------------------------------------------------------
+05/23/2019 10:50:26.603 IST INFO  (testPages.LoginPageTest:>>>verifyLogOut:[175]) verifyLogOut
+----------------------------------------------------------------
+05/23/2019 10:50:39.985 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[44]) Verify Valid Login Details
+----------------------------------------------------------------
+05/23/2019 10:50:39.998 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[47]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+05/23/2019 10:50:47.920 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[150]) verifyTextOnLoginPage
+----------------------------------------------------------------
+05/23/2019 10:50:47.920 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[151]) Test Case: Verify all Text on login field
+----------------------------------------------------------------
+05/23/2019 10:51:00.502 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[68]) Verify Invalid Login Details
+----------------------------------------------------------------
+05/23/2019 10:51:00.518 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[72]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+05/23/2019 10:51:48.430 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[49]) veriyAddOrganisation
+----------------------------------------------------------------
+05/23/2019 10:52:15.579 IST INFO  (testPages.CalculateTimeTest:>>>veriySearchTime:[43]) veriySearchTime()
+----------------------------------------------------------------
+05/23/2019 10:52:30.661 IST INFO  (testPages.ServicePlanTest:>>>veriyAddServicePlan:[48]) veriyAddServicePlan
+----------------------------------------------------------------
+05/23/2019 10:53:20.548 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[62]) VerifyDmainText
+----------------------------------------------------------------
+05/23/2019 10:53:56.301 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[42]) veriyDomainManager
+----------------------------------------------------------------
+05/23/2019 10:54:06.975 IST INFO  (testPages.LoginPageTest:>>>verifyLogOut:[175]) verifyLogOut
+----------------------------------------------------------------
+05/23/2019 10:54:15.899 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[44]) Verify Valid Login Details
+----------------------------------------------------------------
+05/23/2019 10:54:15.907 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[47]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+05/23/2019 10:54:18.884 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[150]) verifyTextOnLoginPage
+----------------------------------------------------------------
+05/23/2019 10:54:18.885 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[151]) Test Case: Verify all Text on login field
+----------------------------------------------------------------
+05/23/2019 10:54:26.744 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[68]) Verify Invalid Login Details
+----------------------------------------------------------------
+05/23/2019 10:54:26.754 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[72]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+05/23/2019 10:54:53.012 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[49]) veriyAddOrganisation
+----------------------------------------------------------------
+05/23/2019 10:55:13.662 IST INFO  (testPages.ServicePlanTest:>>>veriyAddServicePlan:[48]) veriyAddServicePlan
+----------------------------------------------------------------
+05/23/2019 10:55:40.880 IST INFO  (testPages.CalculateTimeTest:>>>veriySearchTime:[43]) veriySearchTime()
+----------------------------------------------------------------
+05/23/2019 10:56:00.142 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[62]) VerifyDmainText
+----------------------------------------------------------------
+05/23/2019 10:56:24.231 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[42]) veriyDomainManager
+----------------------------------------------------------------
+05/23/2019 15:52:44.154 IST INFO  (testPages.SettingsPageTest:>>>VerifyChartOfAccount:[80]) Finance Tab is not opens.
+----------------------------------------------------------------
+05/23/2019 17:15:55.337 IST INFO  (testPages.SettingsPageTest:>>>VerifyChartOfAccount:[80]) Finance Tab is not opens.
+----------------------------------------------------------------
+05/24/2019 14:38:36.428 IST INFO  (testPages.SettingsPageTest:>>>VerifyChartOfAccount:[80]) Finance Tab is not opens.
+----------------------------------------------------------------
+05/24/2019 14:40:37.173 IST INFO  (testPages.SettingsPageTest:>>>VerifyChartOfAccount:[80]) Finance Tab is not opens.
+----------------------------------------------------------------
+05/24/2019 14:41:10.832 IST INFO  (testPages.SettingsPageTest:>>>VerifyChartOfAccount:[80]) Finance Tab is not opens.
+----------------------------------------------------------------
+05/24/2019 14:54:04.356 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) 
+Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/24/2019 15:12:58.091 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) 
+Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/24/2019 15:13:44.220 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) 
+Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/24/2019 15:42:44.876 IST INFO  (testPages.SettingsPageTest:>>>VerifyChartOfAccount:[99]) Finance Tab is not opens.
+----------------------------------------------------------------
+05/24/2019 15:42:54.669 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/27/2019 12:36:36.912 IST INFO  (testPages.LoginPageTest:>>>verifyLogOut:[175]) verifyLogOut
+----------------------------------------------------------------
+05/27/2019 12:36:41.074 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  LOGOUT
+----------------------------------------------------------------
+05/27/2019 12:36:42.200 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Are you sure you want to logout?
+----------------------------------------------------------------
+05/27/2019 12:36:51.478 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[44]) Verify Valid Login Details
+----------------------------------------------------------------
+05/27/2019 12:36:51.493 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[47]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+05/27/2019 12:36:59.728 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[150]) verifyTextOnLoginPage
+----------------------------------------------------------------
+05/27/2019 12:36:59.730 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[151]) Test Case: Verify all Text on login field
+----------------------------------------------------------------
+05/27/2019 12:37:00.870 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Admin Portal
+----------------------------------------------------------------
+05/27/2019 12:37:02.002 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  User Name
+----------------------------------------------------------------
+05/27/2019 12:37:03.132 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Password
+----------------------------------------------------------------
+05/27/2019 12:37:04.241 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Domain
+----------------------------------------------------------------
+05/27/2019 12:37:06.407 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Stay logged in
+----------------------------------------------------------------
+05/27/2019 12:37:12.368 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[68]) Verify Invalid Login Details
+----------------------------------------------------------------
+05/27/2019 12:37:12.375 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[72]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+05/27/2019 12:37:14.572 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Terms & Conditions
+----------------------------------------------------------------
+05/27/2019 12:37:15.891 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  END-USER SOFTWARE LICENSE AGREEMENT
+This End-User Software License Agreement 2012 is made and effective from 1 Jan 2012.
+BY & BETWEEN:
+INVENTUM TECHNOLOGIES PRIVATE LIMITED
+A company organized and existing under the laws of the Republic of India, having its registered head office located at:
+D-1023 New Friends Colony,
+New Delhi 110065
+India
+AND:
+A company which has installed the PRODUCT
+A company organized and existing under the laws of [The country in which the Company is registered], having its registered head office located at:
+Company's Registered Office Address
+WHEREAS, LICENSOR has developed certain computer programs, intellectual property, copyrighted material, software systems and related documentation more particularly described in Schedule A attached hereto and collectively hereinafter referred to as the �PRODUCT�);
+AND WHEREAS LICENSEE is interested to use the PRODUCT of LICENSOR against payment of a license fee (hereinafter �FEE�);
+AND WHEREAS LICENSOR is willing to allow LICENSEE non-exclusive use of the PRODUCT under the conditions set forth in this AGREEMENT and the complete payment of FEE by the LICENSEE.
+NOW, THEREFORE, in consideration of the mutual promises set forth herein, LICENSEE and LICENSOR hereby agree as follows:
+1. Non-Exclusive License
+a. In accordance with the terms herein, LICENSOR grants to LICENSEE, and LICENSEE accepts from LICENSOR, a non-exclusive and non-transferable license to use the PRODUCTS as described in Schedule A of this AGREEMENT and subject to the restrictions as detailed under same schedule.
+b. The PRODUCTS shall only be used in strict accordance with specifications and instructions to the effect provided by LICENSOR in the form of documentation provided to the LICENSOR along with PRODUCT or as made available on LICENSOR website or LICENSOR support staff from time-to-time.
+c. LICENSOR agrees to use the PRODUCTS only at the locations specified in Schedule B described under the heading �Locations of Use� and hereinafter referred to as �LOCATION�.
+d. The PRODUCTS shall be used only for the processing of LICENSEE own business or the business of its wholly owned subsidiary organizations where the LICENSEE holds at least 51% of the issued equity stock (or equivalent instrument/ownership in the event such subsidiary is not a company) and where LICENSEE is in management control of such subsidiary. LICENSEE shall not:
+i. Permit any third party to use the PRODUCT;
+ii. Use the PRODUCTS in the operation of a service bureau, online shared service, electronic hosted Internet service also commonly referred to as a �cloud� or �SaaS� service;
+iii. Rent or lease the PRODUCT;
+iv. Allow access to the licensed PRODCUTS through terminals located outside LICENSEE business premises or authorized LOCATION;
+v. Sub-License the product under any pretext whatsoever;
+vi. Transfer the license to any other entity including subsidiaries of LICENSEE.
+2. Backup Copies
+The license(s) granted herein include(s) the right to create one backup copy of the PRODUCT in non- printed, machine readable form (binary) in whole or in part as necessary for LICENSEE. Such backup is exclusively allowed to enable the LICENSOR to be able to re-install PRODUCT in the event of a catastrophic failure of the hardware on which the PRODUCT was originally installed. In order to protect LICENSOR and its licensors trade secrets and copyrights in the PRODUCT, LICENSEE agrees to reproduce and incorporate LICENSOR & its licensor trade secret or copyright notice in any copies, modifications or partial copies.
+3. License Fees & Payment
+This license shall only be valid provided LICENSEE has made complete payment in accordance with the payment terms for FEE as made by LICENSOR and detailed in Schedule C. It is clarified that the FEE may include late payment penalties, interests or other levies as applied by LICENSOR in the event LICENSEE has not met the payment milestones as set forth in Schedule C.
+4. Software Ownership
+LICENSOR represents that it is the owner (or licensor) of the PRODUCT and all portion(s) thereof and that it has the right to license the same to the LICENSEE. In the case of third party products including open source software and components that form part of the PRODUCT/solution of LICENSOR, LICENSEE agrees to be bound by the terms & conditions as set forth under the relevant license agreements of such third party/open source licensors. The LICENSEE may obtain a list of such third parties and open source licensors from LICENSOR vide a separate written request, which the LICENSOR shall respond to within a reasonable period of time.
+5. Open Source Software
+LIENSOR declares that PRODUCT may/does utilize third party open source parts or components that are governed by license conditions as set forth by their authors, intellectual rights owners or licensor(s). LICENSOR upon request shall furnish to LICENSEE a complete list of such open source parts/components along with copies of code where applicable and as permitted/provided for by the original licensor(s) of such open source code author/intellectual rights owner(s).
+6. Intent to Cooperate
+Both LICENSOR and LICENSEE acknowledge that successful implementation of the PRODUCT pursuant to this AGREEMENT shall require their full and mutual good faith cooperation and LICENSEE acknowledges that it shall timely fulfill its responsibilities, including but not limited to those set forth in this Agreement.
+7. Consulting Services
+LICENSOR shall provide LICENSEE with consulting and support services for the PRODUCTS as mutually agreed between the parties and subsequently documented either in a separate professional service/AMC agreement or in a purchase order of the LICENSEE duly accepted in writing by the LICENSOR. It is clarified that LICENSOR shall not provide any service(s) that may be implied, agreed verbally, understood or assumed by LICENSEE at the time of this Agreement or at any time in the future. LICENSOR shall only provide service on a commercial basis under the terms of a written, mutually agreed document as may be agreed between the parties from time-to-time.
+8. Title to PRODUCT and Confidentiality
+The PRODUCT licensed hereunder and all copies thereof are proprietary to LICENSOR and title thereto remains in LICENSOR. All applicable rights to patents, copyrights, trademarks and trade secrets in the PRODUCT or any modifications made at LICENSEE request are and shall remain in LICENSOR. LICENSEE shall not sell, transfer, publish, disclose, display or otherwise make available the PRODUCT or copies thereof to others. LICENSEE agrees to secure and protect each module, software product, documentation and copies thereof in a manner consistent with the maintenance of LICENSOR rights therein and to take appropriate action by instruction or agreement with its employees or consultants who are permitted access to each PRODUCT to satisfy its obligations hereunder. Any copies made by the LICENSEE of the PRODUCT licensed hereunder, including translations, compilations, partial copies with modifications and updated works, are the property of LICENSOR. Violation of any provision of this paragraph shall be the basis for immediate termination of this License AGREEMENT.
+9. Acceptance
+The PRODUCT shall deemed to have been accepted the moment LICENSEE:
+a. Uses the PRODUCT or any part thereof;
+b. Breaks the seal of a packaged PRODUCT or LICENSE;
+c. Makes payment in part or in full for the PRODUCT or any part thereof against a valid purchase order of the LICENSEE or a duly accepted Proforma Invoice/Commercial Invoice of LICENSOR;
+d. Clicks �Accept� or in other way indicates assent electronically.
+10. Use & Training
+LICENSEE shall limit the use of the PRODUCT to its employees who have been appropriately trained. Employees shall ensure that the PRODUCTS are used in accordance with the specifications, purpose and manner prescribed by the LICENSOR.
+The LICENSOR may provide training to LICENSEE based on a separate commercial training contract that must be signed between the parties. This Agreement does not imply any training to be provided to LICENSEE by LICENSOR.
+11. Limited Warranty
+INVENTUM warrants that the PRODUCT licensed by it to the LICENSEE only as noted above in this AGREEMENT, has been developed with a reasonable effort to be free from defects in workmanship. When properly maintained and under normal use and when used in accordance to the documentation provided with the PRODUCT the PRODUCT will perform substantially in accordance with its specifications as determined by LICENSOR, for a period of ninety days (90 days) (hereinafter referred to as �LIMITED WARRANTY PERIOD�) from the date of receipt or invoice whichever is earlier. AS TO ANY DEFECTS DISCOVERED AFTER THE LIMITED WARRANTY PERIOD MENTIONED ABOVE, THERE IS NO WARRANTY OR CONDITION OF ANY KIND. INVENTUM does NOT warrant that the PRODUCT will meet LICENSEE requirements or that operation of the PRODUCT will be uninterrupted or that the PRODUCT will be error-free. Any supplements or updates to the PRODUCT, including without limitation, any (if any) service packs or hot fixes provided to LICENSEE after the expiration of the LIMITED WARRANTY PERIOD defined herein, are not covered by any warranty or condition, express, implied or statutory. LICENSOR sole obligation under this warranty shall be limited to the repair or replacement of PRODUCT, at its option, which is the result of defective workmanship. This warranty shall expire immediately after the LIMITED WARRANTY PERIOD. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE ABOVE WARRANTY IS EXCLUSIVE AND IN LIEU OF ALL OTHER WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS.
+a. LICENSOR warrants that PRODUCT will conform, as to all substantial operational features, to LICENSOR then published specifications when installed and will be free of defects, which substantially affect system performance.
+b. The LICENSEE must notify LICENSOR in writing, within [5] days of delivery of the PRODUCT to the LICENSEE (not including delivery of any subsequent modifications to the PRODUCT), of its claim of any such defect. If the PRODUCT is found defective by LICENSOR, LICENSOR sole obligation under this warranty is to remedy such defect in a manner consistent with LICENSOR regular business practices.
+c. THE ABOVE IS A LIMITED WARRANTY AND IT IS THE ONLY WARRANTY MADE BY LICENSOR. LICENSOR MAKES AND LICENSEE RECEIVES NO WARRANTY EXPRESS OR IMPLIED AND THERE ARE EXPRESSLY EXCLUDED ALL WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. LICENSOR SHALL HAVE NO LIABILITY WITH RESPECT TO ITS OBLIGATIONS UNDER THIS AGREEMENT FOR CONSEQUENTIAL, EXEMPLARY, OR INCIDENTAL DAMAGES EVEN IF IT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE STATED EXPRESS WARRANTY IS IN LIEU OF ALL LIABILITIES OR OBLIGATIONS OF LICENSOR FOR DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE DELIVERY, USE , OR PERFORMANCE OF THE PRODUCT(S).
+d. If any modifications are made to the PRODUCT by LICENSEE during the warranty period, this warranty shall immediately be terminated. Correction for difficulties or defects traceable to LICENSEE errors or systems changes shall be billed at LICENSOR standard time and material charges.
+e. LICENSEE agrees that LICENSOR liability arising out of contract, negligence, strict liability in tort or warranty shall under no circumstances exceed the total amounts (net of taxes & services) paid by LICENSEE for the PRODUCT supplied under this Agreement or relevant purchase order of LICENSEE.
+12. Indemnity
+LICENSOR at its own expense will defend any action brought against LICENSEE to the extent that it is based on a claim that any PRODUCT used within the scope of this License AGREEMENT infringes any patents, copyrights, license or other property right, provided that LICENSOR is immediately notified in writing of such claim. LICENSOR shall have the right to control the defense of all such claims, lawsuits and other proceedings. In no event shall LICENSEE settle any such claim, lawsuit or proceeding without LICENSOR prior written approval.
+If, as a result of any claim of infringement against any patent, copyright, license or other property right, LICENSOR is enjoined from using the PRODUCT, or if LICENSOR believes that the PRODUCT is likely to become the subject of a claim of infringement, LICENSOR at its option and expense may procure the right for LICENSEE to continue to use the PRODUCT, or replace or modify the PRODUCT so as to make it non-infringing . If neither of these two option is reasonably practicable LICENSOR may discontinue the license granted herein on one month�s written notice and refund to LICENSEE the unamortized portion of the license FEES hereunder (based on three years straight line depreciation, such depreciation to commerce on the date of this AGREEMENT). The foregoing states the entire liability of LICENSOR with respect to infringement of any copyrights or patents by the PRODUCT or any parts thereof.
+13. Termination
+LICENSOR shall have the right to terminate this agreement and license(s) granted herein:
+a. Upon [30] calendar days� written notice in the event that LICENSEE, its officers or employees violates any provision of this License AGREEMENT including, but not limited to, confidentiality and payment.
+b. In the event LICENSEE (i) terminates or suspends its business: (ii) becomes subject to any bankruptcy or insolvency proceeding under local governing laws (iii) becomes insolvent or becomes subject to direct control by a trustee, receiver or similar authority.
+c. In the event of termination by reason of the LICENSEE failure to comply with any part of this Agreement, or upon any act which shall give rise to LICENSOR right to terminate, LICENSOR shall have the right, at any time, to terminate the License(s) and take immediate possession of the PRODUCT and documentation and all copies wherever located, without demand or notice. Within [7] calendar days after termination of the license(s), LICENSEE will return to LICENSOR the PRODUCT in the form provided by LICENSOR, or upon request by LICENSOR destroy the PRODUCT and all copies, and certify in writing that they have been destroyed. Termination under this paragraph shall not relieve LICENSEE of its obligations regarding confidentiality of the PRODUCT.
+Without limiting any of the above provisions, in the event of termination as a result of the LICENSEE failure to comply with any of its obligations under this License AGREEMENT, the LICENSEE shall continue to be obligated for any payments due. Termination of the license(s) shall be in addition to and not in lieu of any equitable remedies available to LICENSOR.
+14. Taxes
+LICENSEE shall, in addition to the other amounts payable under this License AGREEMENT, pay all sales and other taxes, federal, state, or otherwise, however designated, which are levied or imposed by reason of the transactions contemplated by this License AGREEMENT. Without limiting the foregoing, LICENSEE shall promptly pay to LICENSOR an amount equal to any such items actually paid, or required to be collected, or paid by LICENSOR.
+15. Pre-requisites & Requirements
+LICENSEE shall make available for the PRODUCT implementation, at each location listed in Schedule B, all computer equipment and software configurations approved by LICENSOR as adequate for such implementation at such location.
+16. Custom Modifications
+All customs modifications to the PRODUCT, not including assisting LICENSEE in implementation of the PRODUCT, shall be undertaken by LICENSOR at its then current time and materials charges. For each custom modification requested, LICENSEE shall provide written specifications to LICENSOR, which shall be mutually agreed upon prior to commencement of such custom modification effort. Any and all modifications that result in new features within the PRODUCT shall be the intellectual property of LICENSOR and all rights shall vest with LICENSOR.
+17. Entire agreement
+Each party acknowledges that it has read this AGREEMENT. Each party understands it, and agrees to be bound by its terms, and further agrees that this is the complete and exclusive statement of the AGREEMENT between the parties, which supersedes and merges all prior proposals, understandings and all other agreements, oral and written, between the parties relating to this AGREEMENT. This AGREEMENT may not be modified or altered except by written instrument duly executed by both parties.
+If any provision of this AGREEMENT is invalid under any applicable statute or rule of law, it is to that extent to be deemed omitted.
+18. REASONABLE CAUSES
+Dates or times by which LICENSOR is required to make performance under this license shall be postponed automatically to the extent that LICENSOR is prevented from meeting them by causes beyond its reasonable control.
+19. GOVERNING LAW
+This AGREEMENT shall be governed by and interpreted in accordance with the laws of the Republic of India with the courts of New Delhi having sole jurisdiction.
+20. ASSIGNMENT
+The LICENSEE may not assign or sub-license, without the prior written consent of LICENSOR, its rights, duties or obligations under this AGREEMENT to any person or entity, in whole or in part; No action, regardless of form, arising out of this AGREEMENT may be brought by LICENSEE more than two years after the cause of action has arisen.
+21. ATTORNEY FEES
+LICENSOR shall have the right to collect from LICENSEE its reasonable expenses incurred in enforcing this agreement including attorney�s fees.
+22. WAIVER
+The waiver or failure of LICENSOR to exercise in any respect any right provided for herein shall not be deemed a waiver of any further right hereunder.
+IN WITNESS WHEREOF, the parties have executed this AGREEMENT on the dates set forth first above, with full knowledge of its content and significance and intending to be legally bound by the terms hereof.
+For LICENSOR x________________
+For LICENSEE x________________
+If unsigned, this Agreement will be deemed to have been executed and accepted pursuant to clause 9 of this Agreement and specifically upon first use of the PRODUCTS. Electronic assent forms a valid signature & acceptance.
+SCHEDULE A
+As per relevant Invoice of LICENSOR
+SCHEDULE B
+As per relevant Invoice of LICENSOR. If absent, it shall deemed to be the ship to/bill to location of the invoice.
+SCHEDULE C
+FEE as per total amount mentioned on relevant Invoice of LICENSOR as furnished to LICENSEE.
+----------------------------------------------------------------
+05/27/2019 12:37:20.422 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  MESSAGE
+----------------------------------------------------------------
+05/27/2019 12:37:21.530 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Please accept the Terms and Conditions to proceed
+----------------------------------------------------------------
+05/27/2019 12:37:28.060 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Invalid Credentials Provided.
+----------------------------------------------------------------
+05/27/2019 16:21:11.802 IST INFO  (testPages.LoginPageTest:>>>verifyLogOut:[175]) verifyLogOut
+----------------------------------------------------------------
+05/27/2019 16:21:15.268 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  LOGOUT
+----------------------------------------------------------------
+05/27/2019 16:21:16.388 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Are you sure you want to logout?
+----------------------------------------------------------------
+05/27/2019 16:21:25.586 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[44]) Verify Valid Login Details
+----------------------------------------------------------------
+05/27/2019 16:21:25.593 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[47]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+05/27/2019 16:21:33.722 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[150]) verifyTextOnLoginPage
+----------------------------------------------------------------
+05/27/2019 16:21:33.722 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[151]) Test Case: Verify all Text on login field
+----------------------------------------------------------------
+05/27/2019 16:21:34.866 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Admin Portal
+----------------------------------------------------------------
+05/27/2019 16:21:35.986 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  User Name
+----------------------------------------------------------------
+05/27/2019 16:21:37.099 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Password
+----------------------------------------------------------------
+05/27/2019 16:21:38.203 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Domain
+----------------------------------------------------------------
+05/27/2019 16:21:40.341 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Stay logged in
+----------------------------------------------------------------
+05/27/2019 16:21:46.041 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[68]) Verify Invalid Login Details
+----------------------------------------------------------------
+05/27/2019 16:21:46.046 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[72]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+05/27/2019 16:21:48.230 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Terms & Conditions
+----------------------------------------------------------------
+05/27/2019 16:21:49.574 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  END-USER SOFTWARE LICENSE AGREEMENT
+This End-User Software License Agreement 2012 is made and effective from 1 Jan 2012.
+BY & BETWEEN:
+INVENTUM TECHNOLOGIES PRIVATE LIMITED
+A company organized and existing under the laws of the Republic of India, having its registered head office located at:
+D-1023 New Friends Colony,
+New Delhi 110065
+India
+AND:
+A company which has installed the PRODUCT
+A company organized and existing under the laws of [The country in which the Company is registered], having its registered head office located at:
+Company's Registered Office Address
+WHEREAS, LICENSOR has developed certain computer programs, intellectual property, copyrighted material, software systems and related documentation more particularly described in Schedule A attached hereto and collectively hereinafter referred to as the �PRODUCT�);
+AND WHEREAS LICENSEE is interested to use the PRODUCT of LICENSOR against payment of a license fee (hereinafter �FEE�);
+AND WHEREAS LICENSOR is willing to allow LICENSEE non-exclusive use of the PRODUCT under the conditions set forth in this AGREEMENT and the complete payment of FEE by the LICENSEE.
+NOW, THEREFORE, in consideration of the mutual promises set forth herein, LICENSEE and LICENSOR hereby agree as follows:
+1. Non-Exclusive License
+a. In accordance with the terms herein, LICENSOR grants to LICENSEE, and LICENSEE accepts from LICENSOR, a non-exclusive and non-transferable license to use the PRODUCTS as described in Schedule A of this AGREEMENT and subject to the restrictions as detailed under same schedule.
+b. The PRODUCTS shall only be used in strict accordance with specifications and instructions to the effect provided by LICENSOR in the form of documentation provided to the LICENSOR along with PRODUCT or as made available on LICENSOR website or LICENSOR support staff from time-to-time.
+c. LICENSOR agrees to use the PRODUCTS only at the locations specified in Schedule B described under the heading �Locations of Use� and hereinafter referred to as �LOCATION�.
+d. The PRODUCTS shall be used only for the processing of LICENSEE own business or the business of its wholly owned subsidiary organizations where the LICENSEE holds at least 51% of the issued equity stock (or equivalent instrument/ownership in the event such subsidiary is not a company) and where LICENSEE is in management control of such subsidiary. LICENSEE shall not:
+i. Permit any third party to use the PRODUCT;
+ii. Use the PRODUCTS in the operation of a service bureau, online shared service, electronic hosted Internet service also commonly referred to as a �cloud� or �SaaS� service;
+iii. Rent or lease the PRODUCT;
+iv. Allow access to the licensed PRODCUTS through terminals located outside LICENSEE business premises or authorized LOCATION;
+v. Sub-License the product under any pretext whatsoever;
+vi. Transfer the license to any other entity including subsidiaries of LICENSEE.
+2. Backup Copies
+The license(s) granted herein include(s) the right to create one backup copy of the PRODUCT in non- printed, machine readable form (binary) in whole or in part as necessary for LICENSEE. Such backup is exclusively allowed to enable the LICENSOR to be able to re-install PRODUCT in the event of a catastrophic failure of the hardware on which the PRODUCT was originally installed. In order to protect LICENSOR and its licensors trade secrets and copyrights in the PRODUCT, LICENSEE agrees to reproduce and incorporate LICENSOR & its licensor trade secret or copyright notice in any copies, modifications or partial copies.
+3. License Fees & Payment
+This license shall only be valid provided LICENSEE has made complete payment in accordance with the payment terms for FEE as made by LICENSOR and detailed in Schedule C. It is clarified that the FEE may include late payment penalties, interests or other levies as applied by LICENSOR in the event LICENSEE has not met the payment milestones as set forth in Schedule C.
+4. Software Ownership
+LICENSOR represents that it is the owner (or licensor) of the PRODUCT and all portion(s) thereof and that it has the right to license the same to the LICENSEE. In the case of third party products including open source software and components that form part of the PRODUCT/solution of LICENSOR, LICENSEE agrees to be bound by the terms & conditions as set forth under the relevant license agreements of such third party/open source licensors. The LICENSEE may obtain a list of such third parties and open source licensors from LICENSOR vide a separate written request, which the LICENSOR shall respond to within a reasonable period of time.
+5. Open Source Software
+LIENSOR declares that PRODUCT may/does utilize third party open source parts or components that are governed by license conditions as set forth by their authors, intellectual rights owners or licensor(s). LICENSOR upon request shall furnish to LICENSEE a complete list of such open source parts/components along with copies of code where applicable and as permitted/provided for by the original licensor(s) of such open source code author/intellectual rights owner(s).
+6. Intent to Cooperate
+Both LICENSOR and LICENSEE acknowledge that successful implementation of the PRODUCT pursuant to this AGREEMENT shall require their full and mutual good faith cooperation and LICENSEE acknowledges that it shall timely fulfill its responsibilities, including but not limited to those set forth in this Agreement.
+7. Consulting Services
+LICENSOR shall provide LICENSEE with consulting and support services for the PRODUCTS as mutually agreed between the parties and subsequently documented either in a separate professional service/AMC agreement or in a purchase order of the LICENSEE duly accepted in writing by the LICENSOR. It is clarified that LICENSOR shall not provide any service(s) that may be implied, agreed verbally, understood or assumed by LICENSEE at the time of this Agreement or at any time in the future. LICENSOR shall only provide service on a commercial basis under the terms of a written, mutually agreed document as may be agreed between the parties from time-to-time.
+8. Title to PRODUCT and Confidentiality
+The PRODUCT licensed hereunder and all copies thereof are proprietary to LICENSOR and title thereto remains in LICENSOR. All applicable rights to patents, copyrights, trademarks and trade secrets in the PRODUCT or any modifications made at LICENSEE request are and shall remain in LICENSOR. LICENSEE shall not sell, transfer, publish, disclose, display or otherwise make available the PRODUCT or copies thereof to others. LICENSEE agrees to secure and protect each module, software product, documentation and copies thereof in a manner consistent with the maintenance of LICENSOR rights therein and to take appropriate action by instruction or agreement with its employees or consultants who are permitted access to each PRODUCT to satisfy its obligations hereunder. Any copies made by the LICENSEE of the PRODUCT licensed hereunder, including translations, compilations, partial copies with modifications and updated works, are the property of LICENSOR. Violation of any provision of this paragraph shall be the basis for immediate termination of this License AGREEMENT.
+9. Acceptance
+The PRODUCT shall deemed to have been accepted the moment LICENSEE:
+a. Uses the PRODUCT or any part thereof;
+b. Breaks the seal of a packaged PRODUCT or LICENSE;
+c. Makes payment in part or in full for the PRODUCT or any part thereof against a valid purchase order of the LICENSEE or a duly accepted Proforma Invoice/Commercial Invoice of LICENSOR;
+d. Clicks �Accept� or in other way indicates assent electronically.
+10. Use & Training
+LICENSEE shall limit the use of the PRODUCT to its employees who have been appropriately trained. Employees shall ensure that the PRODUCTS are used in accordance with the specifications, purpose and manner prescribed by the LICENSOR.
+The LICENSOR may provide training to LICENSEE based on a separate commercial training contract that must be signed between the parties. This Agreement does not imply any training to be provided to LICENSEE by LICENSOR.
+11. Limited Warranty
+INVENTUM warrants that the PRODUCT licensed by it to the LICENSEE only as noted above in this AGREEMENT, has been developed with a reasonable effort to be free from defects in workmanship. When properly maintained and under normal use and when used in accordance to the documentation provided with the PRODUCT the PRODUCT will perform substantially in accordance with its specifications as determined by LICENSOR, for a period of ninety days (90 days) (hereinafter referred to as �LIMITED WARRANTY PERIOD�) from the date of receipt or invoice whichever is earlier. AS TO ANY DEFECTS DISCOVERED AFTER THE LIMITED WARRANTY PERIOD MENTIONED ABOVE, THERE IS NO WARRANTY OR CONDITION OF ANY KIND. INVENTUM does NOT warrant that the PRODUCT will meet LICENSEE requirements or that operation of the PRODUCT will be uninterrupted or that the PRODUCT will be error-free. Any supplements or updates to the PRODUCT, including without limitation, any (if any) service packs or hot fixes provided to LICENSEE after the expiration of the LIMITED WARRANTY PERIOD defined herein, are not covered by any warranty or condition, express, implied or statutory. LICENSOR sole obligation under this warranty shall be limited to the repair or replacement of PRODUCT, at its option, which is the result of defective workmanship. This warranty shall expire immediately after the LIMITED WARRANTY PERIOD. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE ABOVE WARRANTY IS EXCLUSIVE AND IN LIEU OF ALL OTHER WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS.
+a. LICENSOR warrants that PRODUCT will conform, as to all substantial operational features, to LICENSOR then published specifications when installed and will be free of defects, which substantially affect system performance.
+b. The LICENSEE must notify LICENSOR in writing, within [5] days of delivery of the PRODUCT to the LICENSEE (not including delivery of any subsequent modifications to the PRODUCT), of its claim of any such defect. If the PRODUCT is found defective by LICENSOR, LICENSOR sole obligation under this warranty is to remedy such defect in a manner consistent with LICENSOR regular business practices.
+c. THE ABOVE IS A LIMITED WARRANTY AND IT IS THE ONLY WARRANTY MADE BY LICENSOR. LICENSOR MAKES AND LICENSEE RECEIVES NO WARRANTY EXPRESS OR IMPLIED AND THERE ARE EXPRESSLY EXCLUDED ALL WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. LICENSOR SHALL HAVE NO LIABILITY WITH RESPECT TO ITS OBLIGATIONS UNDER THIS AGREEMENT FOR CONSEQUENTIAL, EXEMPLARY, OR INCIDENTAL DAMAGES EVEN IF IT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE STATED EXPRESS WARRANTY IS IN LIEU OF ALL LIABILITIES OR OBLIGATIONS OF LICENSOR FOR DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE DELIVERY, USE , OR PERFORMANCE OF THE PRODUCT(S).
+d. If any modifications are made to the PRODUCT by LICENSEE during the warranty period, this warranty shall immediately be terminated. Correction for difficulties or defects traceable to LICENSEE errors or systems changes shall be billed at LICENSOR standard time and material charges.
+e. LICENSEE agrees that LICENSOR liability arising out of contract, negligence, strict liability in tort or warranty shall under no circumstances exceed the total amounts (net of taxes & services) paid by LICENSEE for the PRODUCT supplied under this Agreement or relevant purchase order of LICENSEE.
+12. Indemnity
+LICENSOR at its own expense will defend any action brought against LICENSEE to the extent that it is based on a claim that any PRODUCT used within the scope of this License AGREEMENT infringes any patents, copyrights, license or other property right, provided that LICENSOR is immediately notified in writing of such claim. LICENSOR shall have the right to control the defense of all such claims, lawsuits and other proceedings. In no event shall LICENSEE settle any such claim, lawsuit or proceeding without LICENSOR prior written approval.
+If, as a result of any claim of infringement against any patent, copyright, license or other property right, LICENSOR is enjoined from using the PRODUCT, or if LICENSOR believes that the PRODUCT is likely to become the subject of a claim of infringement, LICENSOR at its option and expense may procure the right for LICENSEE to continue to use the PRODUCT, or replace or modify the PRODUCT so as to make it non-infringing . If neither of these two option is reasonably practicable LICENSOR may discontinue the license granted herein on one month�s written notice and refund to LICENSEE the unamortized portion of the license FEES hereunder (based on three years straight line depreciation, such depreciation to commerce on the date of this AGREEMENT). The foregoing states the entire liability of LICENSOR with respect to infringement of any copyrights or patents by the PRODUCT or any parts thereof.
+13. Termination
+LICENSOR shall have the right to terminate this agreement and license(s) granted herein:
+a. Upon [30] calendar days� written notice in the event that LICENSEE, its officers or employees violates any provision of this License AGREEMENT including, but not limited to, confidentiality and payment.
+b. In the event LICENSEE (i) terminates or suspends its business: (ii) becomes subject to any bankruptcy or insolvency proceeding under local governing laws (iii) becomes insolvent or becomes subject to direct control by a trustee, receiver or similar authority.
+c. In the event of termination by reason of the LICENSEE failure to comply with any part of this Agreement, or upon any act which shall give rise to LICENSOR right to terminate, LICENSOR shall have the right, at any time, to terminate the License(s) and take immediate possession of the PRODUCT and documentation and all copies wherever located, without demand or notice. Within [7] calendar days after termination of the license(s), LICENSEE will return to LICENSOR the PRODUCT in the form provided by LICENSOR, or upon request by LICENSOR destroy the PRODUCT and all copies, and certify in writing that they have been destroyed. Termination under this paragraph shall not relieve LICENSEE of its obligations regarding confidentiality of the PRODUCT.
+Without limiting any of the above provisions, in the event of termination as a result of the LICENSEE failure to comply with any of its obligations under this License AGREEMENT, the LICENSEE shall continue to be obligated for any payments due. Termination of the license(s) shall be in addition to and not in lieu of any equitable remedies available to LICENSOR.
+14. Taxes
+LICENSEE shall, in addition to the other amounts payable under this License AGREEMENT, pay all sales and other taxes, federal, state, or otherwise, however designated, which are levied or imposed by reason of the transactions contemplated by this License AGREEMENT. Without limiting the foregoing, LICENSEE shall promptly pay to LICENSOR an amount equal to any such items actually paid, or required to be collected, or paid by LICENSOR.
+15. Pre-requisites & Requirements
+LICENSEE shall make available for the PRODUCT implementation, at each location listed in Schedule B, all computer equipment and software configurations approved by LICENSOR as adequate for such implementation at such location.
+16. Custom Modifications
+All customs modifications to the PRODUCT, not including assisting LICENSEE in implementation of the PRODUCT, shall be undertaken by LICENSOR at its then current time and materials charges. For each custom modification requested, LICENSEE shall provide written specifications to LICENSOR, which shall be mutually agreed upon prior to commencement of such custom modification effort. Any and all modifications that result in new features within the PRODUCT shall be the intellectual property of LICENSOR and all rights shall vest with LICENSOR.
+17. Entire agreement
+Each party acknowledges that it has read this AGREEMENT. Each party understands it, and agrees to be bound by its terms, and further agrees that this is the complete and exclusive statement of the AGREEMENT between the parties, which supersedes and merges all prior proposals, understandings and all other agreements, oral and written, between the parties relating to this AGREEMENT. This AGREEMENT may not be modified or altered except by written instrument duly executed by both parties.
+If any provision of this AGREEMENT is invalid under any applicable statute or rule of law, it is to that extent to be deemed omitted.
+18. REASONABLE CAUSES
+Dates or times by which LICENSOR is required to make performance under this license shall be postponed automatically to the extent that LICENSOR is prevented from meeting them by causes beyond its reasonable control.
+19. GOVERNING LAW
+This AGREEMENT shall be governed by and interpreted in accordance with the laws of the Republic of India with the courts of New Delhi having sole jurisdiction.
+20. ASSIGNMENT
+The LICENSEE may not assign or sub-license, without the prior written consent of LICENSOR, its rights, duties or obligations under this AGREEMENT to any person or entity, in whole or in part; No action, regardless of form, arising out of this AGREEMENT may be brought by LICENSEE more than two years after the cause of action has arisen.
+21. ATTORNEY FEES
+LICENSOR shall have the right to collect from LICENSEE its reasonable expenses incurred in enforcing this agreement including attorney�s fees.
+22. WAIVER
+The waiver or failure of LICENSOR to exercise in any respect any right provided for herein shall not be deemed a waiver of any further right hereunder.
+IN WITNESS WHEREOF, the parties have executed this AGREEMENT on the dates set forth first above, with full knowledge of its content and significance and intending to be legally bound by the terms hereof.
+For LICENSOR x________________
+For LICENSEE x________________
+If unsigned, this Agreement will be deemed to have been executed and accepted pursuant to clause 9 of this Agreement and specifically upon first use of the PRODUCTS. Electronic assent forms a valid signature & acceptance.
+SCHEDULE A
+As per relevant Invoice of LICENSOR
+SCHEDULE B
+As per relevant Invoice of LICENSOR. If absent, it shall deemed to be the ship to/bill to location of the invoice.
+SCHEDULE C
+FEE as per total amount mentioned on relevant Invoice of LICENSOR as furnished to LICENSEE.
+----------------------------------------------------------------
+05/27/2019 16:21:54.076 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  MESSAGE
+----------------------------------------------------------------
+05/27/2019 16:21:55.185 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Please accept the Terms and Conditions to proceed
+----------------------------------------------------------------
+05/27/2019 16:22:01.610 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Invalid Credentials Provided.
+----------------------------------------------------------------
+05/27/2019 16:22:35.793 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[49]) veriyAddOrganisation
+----------------------------------------------------------------
+05/27/2019 16:22:41.936 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+05/27/2019 16:23:02.936 IST INFO  (testPages.CalculateTimeTest:>>>veriySearchTime:[43]) veriySearchTime()
+----------------------------------------------------------------
+05/27/2019 16:23:15.669 IST INFO  (testPages.ServicePlanTest:>>>veriyAddServicePlan:[48]) veriyAddServicePlan
+----------------------------------------------------------------
+05/27/2019 16:23:20.080 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Service Plan Manager
+----------------------------------------------------------------
+05/27/2019 16:23:54.571 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Unique ID:*
+----------------------------------------------------------------
+05/27/2019 16:23:55.731 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Domain Name:*
+----------------------------------------------------------------
+05/27/2019 16:23:56.878 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Parent Domain:
+----------------------------------------------------------------
+05/27/2019 16:24:04.853 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[62]) VerifyDmainText
+----------------------------------------------------------------
+05/27/2019 16:24:12.180 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Unique ID:*
+----------------------------------------------------------------
+05/27/2019 16:24:13.346 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Domain Name:*
+----------------------------------------------------------------
+05/27/2019 16:24:40.235 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[42]) veriyDomainManager
+----------------------------------------------------------------
+05/27/2019 16:25:02.533 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/27/2019 16:25:12.139 IST INFO  (testPages.LoginPageTest:>>>verifyLogOut:[175]) verifyLogOut
+----------------------------------------------------------------
+05/27/2019 16:25:15.100 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  LOGOUT
+----------------------------------------------------------------
+05/27/2019 16:25:16.188 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Are you sure you want to logout?
+----------------------------------------------------------------
+05/27/2019 16:25:21.046 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[44]) Verify Valid Login Details
+----------------------------------------------------------------
+05/27/2019 16:25:21.059 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[47]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+05/27/2019 16:25:24.157 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[150]) verifyTextOnLoginPage
+----------------------------------------------------------------
+05/27/2019 16:25:24.158 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[151]) Test Case: Verify all Text on login field
+----------------------------------------------------------------
+05/27/2019 16:25:25.244 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Admin Portal
+----------------------------------------------------------------
+05/27/2019 16:25:26.327 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  User Name
+----------------------------------------------------------------
+05/27/2019 16:25:27.408 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Password
+----------------------------------------------------------------
+05/27/2019 16:25:28.491 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Domain
+----------------------------------------------------------------
+05/27/2019 16:25:30.229 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Stay logged in
+----------------------------------------------------------------
+05/27/2019 16:25:31.995 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[68]) Verify Invalid Login Details
+----------------------------------------------------------------
+05/27/2019 16:25:32.004 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[72]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+05/27/2019 16:25:34.112 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Terms & Conditions
+----------------------------------------------------------------
+05/27/2019 16:25:35.284 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  END-USER SOFTWARE LICENSE AGREEMENT
+This End-User Software License Agreement 2012 is made and effective from 1 Jan 2012.
+BY & BETWEEN:
+INVENTUM TECHNOLOGIES PRIVATE LIMITED
+A company organized and existing under the laws of the Republic of India, having its registered head office located at:
+D-1023 New Friends Colony,
+New Delhi 110065
+India
+AND:
+A company which has installed the PRODUCT
+A company organized and existing under the laws of [The country in which the Company is registered], having its registered head office located at:
+Company's Registered Office Address
+WHEREAS, LICENSOR has developed certain computer programs, intellectual property, copyrighted material, software systems and related documentation more particularly described in Schedule A attached hereto and collectively hereinafter referred to as the �PRODUCT�);
+AND WHEREAS LICENSEE is interested to use the PRODUCT of LICENSOR against payment of a license fee (hereinafter �FEE�);
+AND WHEREAS LICENSOR is willing to allow LICENSEE non-exclusive use of the PRODUCT under the conditions set forth in this AGREEMENT and the complete payment of FEE by the LICENSEE.
+NOW, THEREFORE, in consideration of the mutual promises set forth herein, LICENSEE and LICENSOR hereby agree as follows:
+1. Non-Exclusive License
+a. In accordance with the terms herein, LICENSOR grants to LICENSEE, and LICENSEE accepts from LICENSOR, a non-exclusive and non-transferable license to use the PRODUCTS as described in Schedule A of this AGREEMENT and subject to the restrictions as detailed under same schedule.
+b. The PRODUCTS shall only be used in strict accordance with specifications and instructions to the effect provided by LICENSOR in the form of documentation provided to the LICENSOR along with PRODUCT or as made available on LICENSOR website or LICENSOR support staff from time-to-time.
+c. LICENSOR agrees to use the PRODUCTS only at the locations specified in Schedule B described under the heading �Locations of Use� and hereinafter referred to as �LOCATION�.
+d. The PRODUCTS shall be used only for the processing of LICENSEE own business or the business of its wholly owned subsidiary organizations where the LICENSEE holds at least 51% of the issued equity stock (or equivalent instrument/ownership in the event such subsidiary is not a company) and where LICENSEE is in management control of such subsidiary. LICENSEE shall not:
+i. Permit any third party to use the PRODUCT;
+ii. Use the PRODUCTS in the operation of a service bureau, online shared service, electronic hosted Internet service also commonly referred to as a �cloud� or �SaaS� service;
+iii. Rent or lease the PRODUCT;
+iv. Allow access to the licensed PRODCUTS through terminals located outside LICENSEE business premises or authorized LOCATION;
+v. Sub-License the product under any pretext whatsoever;
+vi. Transfer the license to any other entity including subsidiaries of LICENSEE.
+2. Backup Copies
+The license(s) granted herein include(s) the right to create one backup copy of the PRODUCT in non- printed, machine readable form (binary) in whole or in part as necessary for LICENSEE. Such backup is exclusively allowed to enable the LICENSOR to be able to re-install PRODUCT in the event of a catastrophic failure of the hardware on which the PRODUCT was originally installed. In order to protect LICENSOR and its licensors trade secrets and copyrights in the PRODUCT, LICENSEE agrees to reproduce and incorporate LICENSOR & its licensor trade secret or copyright notice in any copies, modifications or partial copies.
+3. License Fees & Payment
+This license shall only be valid provided LICENSEE has made complete payment in accordance with the payment terms for FEE as made by LICENSOR and detailed in Schedule C. It is clarified that the FEE may include late payment penalties, interests or other levies as applied by LICENSOR in the event LICENSEE has not met the payment milestones as set forth in Schedule C.
+4. Software Ownership
+LICENSOR represents that it is the owner (or licensor) of the PRODUCT and all portion(s) thereof and that it has the right to license the same to the LICENSEE. In the case of third party products including open source software and components that form part of the PRODUCT/solution of LICENSOR, LICENSEE agrees to be bound by the terms & conditions as set forth under the relevant license agreements of such third party/open source licensors. The LICENSEE may obtain a list of such third parties and open source licensors from LICENSOR vide a separate written request, which the LICENSOR shall respond to within a reasonable period of time.
+5. Open Source Software
+LIENSOR declares that PRODUCT may/does utilize third party open source parts or components that are governed by license conditions as set forth by their authors, intellectual rights owners or licensor(s). LICENSOR upon request shall furnish to LICENSEE a complete list of such open source parts/components along with copies of code where applicable and as permitted/provided for by the original licensor(s) of such open source code author/intellectual rights owner(s).
+6. Intent to Cooperate
+Both LICENSOR and LICENSEE acknowledge that successful implementation of the PRODUCT pursuant to this AGREEMENT shall require their full and mutual good faith cooperation and LICENSEE acknowledges that it shall timely fulfill its responsibilities, including but not limited to those set forth in this Agreement.
+7. Consulting Services
+LICENSOR shall provide LICENSEE with consulting and support services for the PRODUCTS as mutually agreed between the parties and subsequently documented either in a separate professional service/AMC agreement or in a purchase order of the LICENSEE duly accepted in writing by the LICENSOR. It is clarified that LICENSOR shall not provide any service(s) that may be implied, agreed verbally, understood or assumed by LICENSEE at the time of this Agreement or at any time in the future. LICENSOR shall only provide service on a commercial basis under the terms of a written, mutually agreed document as may be agreed between the parties from time-to-time.
+8. Title to PRODUCT and Confidentiality
+The PRODUCT licensed hereunder and all copies thereof are proprietary to LICENSOR and title thereto remains in LICENSOR. All applicable rights to patents, copyrights, trademarks and trade secrets in the PRODUCT or any modifications made at LICENSEE request are and shall remain in LICENSOR. LICENSEE shall not sell, transfer, publish, disclose, display or otherwise make available the PRODUCT or copies thereof to others. LICENSEE agrees to secure and protect each module, software product, documentation and copies thereof in a manner consistent with the maintenance of LICENSOR rights therein and to take appropriate action by instruction or agreement with its employees or consultants who are permitted access to each PRODUCT to satisfy its obligations hereunder. Any copies made by the LICENSEE of the PRODUCT licensed hereunder, including translations, compilations, partial copies with modifications and updated works, are the property of LICENSOR. Violation of any provision of this paragraph shall be the basis for immediate termination of this License AGREEMENT.
+9. Acceptance
+The PRODUCT shall deemed to have been accepted the moment LICENSEE:
+a. Uses the PRODUCT or any part thereof;
+b. Breaks the seal of a packaged PRODUCT or LICENSE;
+c. Makes payment in part or in full for the PRODUCT or any part thereof against a valid purchase order of the LICENSEE or a duly accepted Proforma Invoice/Commercial Invoice of LICENSOR;
+d. Clicks �Accept� or in other way indicates assent electronically.
+10. Use & Training
+LICENSEE shall limit the use of the PRODUCT to its employees who have been appropriately trained. Employees shall ensure that the PRODUCTS are used in accordance with the specifications, purpose and manner prescribed by the LICENSOR.
+The LICENSOR may provide training to LICENSEE based on a separate commercial training contract that must be signed between the parties. This Agreement does not imply any training to be provided to LICENSEE by LICENSOR.
+11. Limited Warranty
+INVENTUM warrants that the PRODUCT licensed by it to the LICENSEE only as noted above in this AGREEMENT, has been developed with a reasonable effort to be free from defects in workmanship. When properly maintained and under normal use and when used in accordance to the documentation provided with the PRODUCT the PRODUCT will perform substantially in accordance with its specifications as determined by LICENSOR, for a period of ninety days (90 days) (hereinafter referred to as �LIMITED WARRANTY PERIOD�) from the date of receipt or invoice whichever is earlier. AS TO ANY DEFECTS DISCOVERED AFTER THE LIMITED WARRANTY PERIOD MENTIONED ABOVE, THERE IS NO WARRANTY OR CONDITION OF ANY KIND. INVENTUM does NOT warrant that the PRODUCT will meet LICENSEE requirements or that operation of the PRODUCT will be uninterrupted or that the PRODUCT will be error-free. Any supplements or updates to the PRODUCT, including without limitation, any (if any) service packs or hot fixes provided to LICENSEE after the expiration of the LIMITED WARRANTY PERIOD defined herein, are not covered by any warranty or condition, express, implied or statutory. LICENSOR sole obligation under this warranty shall be limited to the repair or replacement of PRODUCT, at its option, which is the result of defective workmanship. This warranty shall expire immediately after the LIMITED WARRANTY PERIOD. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE ABOVE WARRANTY IS EXCLUSIVE AND IN LIEU OF ALL OTHER WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS.
+a. LICENSOR warrants that PRODUCT will conform, as to all substantial operational features, to LICENSOR then published specifications when installed and will be free of defects, which substantially affect system performance.
+b. The LICENSEE must notify LICENSOR in writing, within [5] days of delivery of the PRODUCT to the LICENSEE (not including delivery of any subsequent modifications to the PRODUCT), of its claim of any such defect. If the PRODUCT is found defective by LICENSOR, LICENSOR sole obligation under this warranty is to remedy such defect in a manner consistent with LICENSOR regular business practices.
+c. THE ABOVE IS A LIMITED WARRANTY AND IT IS THE ONLY WARRANTY MADE BY LICENSOR. LICENSOR MAKES AND LICENSEE RECEIVES NO WARRANTY EXPRESS OR IMPLIED AND THERE ARE EXPRESSLY EXCLUDED ALL WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. LICENSOR SHALL HAVE NO LIABILITY WITH RESPECT TO ITS OBLIGATIONS UNDER THIS AGREEMENT FOR CONSEQUENTIAL, EXEMPLARY, OR INCIDENTAL DAMAGES EVEN IF IT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE STATED EXPRESS WARRANTY IS IN LIEU OF ALL LIABILITIES OR OBLIGATIONS OF LICENSOR FOR DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE DELIVERY, USE , OR PERFORMANCE OF THE PRODUCT(S).
+d. If any modifications are made to the PRODUCT by LICENSEE during the warranty period, this warranty shall immediately be terminated. Correction for difficulties or defects traceable to LICENSEE errors or systems changes shall be billed at LICENSOR standard time and material charges.
+e. LICENSEE agrees that LICENSOR liability arising out of contract, negligence, strict liability in tort or warranty shall under no circumstances exceed the total amounts (net of taxes & services) paid by LICENSEE for the PRODUCT supplied under this Agreement or relevant purchase order of LICENSEE.
+12. Indemnity
+LICENSOR at its own expense will defend any action brought against LICENSEE to the extent that it is based on a claim that any PRODUCT used within the scope of this License AGREEMENT infringes any patents, copyrights, license or other property right, provided that LICENSOR is immediately notified in writing of such claim. LICENSOR shall have the right to control the defense of all such claims, lawsuits and other proceedings. In no event shall LICENSEE settle any such claim, lawsuit or proceeding without LICENSOR prior written approval.
+If, as a result of any claim of infringement against any patent, copyright, license or other property right, LICENSOR is enjoined from using the PRODUCT, or if LICENSOR believes that the PRODUCT is likely to become the subject of a claim of infringement, LICENSOR at its option and expense may procure the right for LICENSEE to continue to use the PRODUCT, or replace or modify the PRODUCT so as to make it non-infringing . If neither of these two option is reasonably practicable LICENSOR may discontinue the license granted herein on one month�s written notice and refund to LICENSEE the unamortized portion of the license FEES hereunder (based on three years straight line depreciation, such depreciation to commerce on the date of this AGREEMENT). The foregoing states the entire liability of LICENSOR with respect to infringement of any copyrights or patents by the PRODUCT or any parts thereof.
+13. Termination
+LICENSOR shall have the right to terminate this agreement and license(s) granted herein:
+a. Upon [30] calendar days� written notice in the event that LICENSEE, its officers or employees violates any provision of this License AGREEMENT including, but not limited to, confidentiality and payment.
+b. In the event LICENSEE (i) terminates or suspends its business: (ii) becomes subject to any bankruptcy or insolvency proceeding under local governing laws (iii) becomes insolvent or becomes subject to direct control by a trustee, receiver or similar authority.
+c. In the event of termination by reason of the LICENSEE failure to comply with any part of this Agreement, or upon any act which shall give rise to LICENSOR right to terminate, LICENSOR shall have the right, at any time, to terminate the License(s) and take immediate possession of the PRODUCT and documentation and all copies wherever located, without demand or notice. Within [7] calendar days after termination of the license(s), LICENSEE will return to LICENSOR the PRODUCT in the form provided by LICENSOR, or upon request by LICENSOR destroy the PRODUCT and all copies, and certify in writing that they have been destroyed. Termination under this paragraph shall not relieve LICENSEE of its obligations regarding confidentiality of the PRODUCT.
+Without limiting any of the above provisions, in the event of termination as a result of the LICENSEE failure to comply with any of its obligations under this License AGREEMENT, the LICENSEE shall continue to be obligated for any payments due. Termination of the license(s) shall be in addition to and not in lieu of any equitable remedies available to LICENSOR.
+14. Taxes
+LICENSEE shall, in addition to the other amounts payable under this License AGREEMENT, pay all sales and other taxes, federal, state, or otherwise, however designated, which are levied or imposed by reason of the transactions contemplated by this License AGREEMENT. Without limiting the foregoing, LICENSEE shall promptly pay to LICENSOR an amount equal to any such items actually paid, or required to be collected, or paid by LICENSOR.
+15. Pre-requisites & Requirements
+LICENSEE shall make available for the PRODUCT implementation, at each location listed in Schedule B, all computer equipment and software configurations approved by LICENSOR as adequate for such implementation at such location.
+16. Custom Modifications
+All customs modifications to the PRODUCT, not including assisting LICENSEE in implementation of the PRODUCT, shall be undertaken by LICENSOR at its then current time and materials charges. For each custom modification requested, LICENSEE shall provide written specifications to LICENSOR, which shall be mutually agreed upon prior to commencement of such custom modification effort. Any and all modifications that result in new features within the PRODUCT shall be the intellectual property of LICENSOR and all rights shall vest with LICENSOR.
+17. Entire agreement
+Each party acknowledges that it has read this AGREEMENT. Each party understands it, and agrees to be bound by its terms, and further agrees that this is the complete and exclusive statement of the AGREEMENT between the parties, which supersedes and merges all prior proposals, understandings and all other agreements, oral and written, between the parties relating to this AGREEMENT. This AGREEMENT may not be modified or altered except by written instrument duly executed by both parties.
+If any provision of this AGREEMENT is invalid under any applicable statute or rule of law, it is to that extent to be deemed omitted.
+18. REASONABLE CAUSES
+Dates or times by which LICENSOR is required to make performance under this license shall be postponed automatically to the extent that LICENSOR is prevented from meeting them by causes beyond its reasonable control.
+19. GOVERNING LAW
+This AGREEMENT shall be governed by and interpreted in accordance with the laws of the Republic of India with the courts of New Delhi having sole jurisdiction.
+20. ASSIGNMENT
+The LICENSEE may not assign or sub-license, without the prior written consent of LICENSOR, its rights, duties or obligations under this AGREEMENT to any person or entity, in whole or in part; No action, regardless of form, arising out of this AGREEMENT may be brought by LICENSEE more than two years after the cause of action has arisen.
+21. ATTORNEY FEES
+LICENSOR shall have the right to collect from LICENSEE its reasonable expenses incurred in enforcing this agreement including attorney�s fees.
+22. WAIVER
+The waiver or failure of LICENSOR to exercise in any respect any right provided for herein shall not be deemed a waiver of any further right hereunder.
+IN WITNESS WHEREOF, the parties have executed this AGREEMENT on the dates set forth first above, with full knowledge of its content and significance and intending to be legally bound by the terms hereof.
+For LICENSOR x________________
+For LICENSEE x________________
+If unsigned, this Agreement will be deemed to have been executed and accepted pursuant to clause 9 of this Agreement and specifically upon first use of the PRODUCTS. Electronic assent forms a valid signature & acceptance.
+SCHEDULE A
+As per relevant Invoice of LICENSOR
+SCHEDULE B
+As per relevant Invoice of LICENSOR. If absent, it shall deemed to be the ship to/bill to location of the invoice.
+SCHEDULE C
+FEE as per total amount mentioned on relevant Invoice of LICENSOR as furnished to LICENSEE.
+----------------------------------------------------------------
+05/27/2019 16:25:38.866 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  MESSAGE
+----------------------------------------------------------------
+05/27/2019 16:25:39.952 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Please accept the Terms and Conditions to proceed
+----------------------------------------------------------------
+05/27/2019 16:25:45.849 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Invalid Credentials Provided.
+----------------------------------------------------------------
+05/27/2019 16:25:59.640 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[49]) veriyAddOrganisation
+----------------------------------------------------------------
+05/27/2019 16:26:04.748 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+05/27/2019 16:26:20.369 IST INFO  (testPages.ServicePlanTest:>>>veriyAddServicePlan:[48]) veriyAddServicePlan
+----------------------------------------------------------------
+05/27/2019 16:26:24.402 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Service Plan Manager
+----------------------------------------------------------------
+05/27/2019 16:26:48.089 IST INFO  (testPages.CalculateTimeTest:>>>veriySearchTime:[43]) veriySearchTime()
+----------------------------------------------------------------
+05/27/2019 16:27:01.673 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Unique ID:*
+----------------------------------------------------------------
+05/27/2019 16:27:02.776 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Domain Name:*
+----------------------------------------------------------------
+05/27/2019 16:27:03.872 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Parent Domain:
+----------------------------------------------------------------
+05/27/2019 16:27:07.162 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[62]) VerifyDmainText
+----------------------------------------------------------------
+05/27/2019 16:27:13.708 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Unique ID:*
+----------------------------------------------------------------
+05/27/2019 16:27:14.811 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Domain Name:*
+----------------------------------------------------------------
+05/27/2019 16:27:31.741 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[42]) veriyDomainManager
+----------------------------------------------------------------
+05/27/2019 16:27:49.523 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/27/2019 16:28:35.474 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/30/2019 14:59:39.754 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/30/2019 15:00:26.018 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/30/2019 15:07:18.029 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/30/2019 15:08:04.110 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/30/2019 15:13:54.744 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/30/2019 15:14:40.742 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/30/2019 15:20:42.165 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/30/2019 15:22:33.460 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/30/2019 15:23:19.424 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/30/2019 15:24:58.923 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/30/2019 15:25:43.323 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/30/2019 16:54:12.070 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/30/2019 17:02:52.504 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/30/2019 17:03:43.173 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/31/2019 10:16:58.781 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/31/2019 15:09:58.385 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/31/2019 15:18:57.858 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/31/2019 15:20:26.499 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/31/2019 15:23:10.606 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/31/2019 15:24:38.335 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/31/2019 15:27:46.788 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/31/2019 15:28:55.660 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/31/2019 15:33:52.205 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/31/2019 15:35:27.662 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/31/2019 15:36:52.111 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/31/2019 15:38:11.819 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/31/2019 15:38:47.125 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+05/31/2019 16:29:30.648 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Chart Of Account (COA) List
+----------------------------------------------------------------
+06/24/2019 11:59:23.572 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[51]) veriyAddOrganisation
+----------------------------------------------------------------
+06/24/2019 11:59:27.865 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+06/25/2019 10:50:54.639 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[51]) veriyAddOrganisation
+----------------------------------------------------------------
+06/25/2019 10:50:59.038 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[68]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+06/25/2019 11:55:45.984 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[51]) veriyAddOrganisation
+----------------------------------------------------------------
+06/25/2019 11:55:50.295 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+06/25/2019 11:57:11.384 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[51]) veriyAddOrganisation
+----------------------------------------------------------------
+06/25/2019 11:57:15.675 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+06/25/2019 11:58:03.547 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[51]) veriyAddOrganisation
+----------------------------------------------------------------
+06/25/2019 11:58:07.853 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+06/25/2019 12:01:26.044 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[51]) veriyAddOrganisation
+----------------------------------------------------------------
+06/25/2019 12:01:30.379 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+06/25/2019 12:01:36.300 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  
+----------------------------------------------------------------
+06/25/2019 12:06:30.582 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[51]) veriyAddOrganisation
+----------------------------------------------------------------
+06/25/2019 12:06:34.932 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+06/25/2019 12:07:45.677 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[51]) veriyAddOrganisation
+----------------------------------------------------------------
+06/25/2019 12:07:50.012 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+06/25/2019 12:09:41.551 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[51]) veriyAddOrganisation
+----------------------------------------------------------------
+06/25/2019 12:09:45.889 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+06/25/2019 12:10:29.583 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[51]) veriyAddOrganisation
+----------------------------------------------------------------
+06/25/2019 12:10:33.824 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+06/25/2019 12:10:50.749 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[51]) veriyAddOrganisation
+----------------------------------------------------------------
+06/25/2019 12:10:55.004 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+06/25/2019 12:16:01.178 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[51]) veriyAddOrganisation
+----------------------------------------------------------------
+06/25/2019 12:16:05.519 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[85]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+06/25/2019 12:45:50.098 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+06/25/2019 12:45:54.355 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[85]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+06/25/2019 12:47:15.816 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+06/25/2019 12:47:20.105 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[85]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+06/25/2019 15:39:02.160 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[42]) veriyDomainManager
+----------------------------------------------------------------
+06/25/2019 15:40:46.773 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[42]) veriyDomainManager
+----------------------------------------------------------------
+06/25/2019 15:45:27.189 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[42]) veriyDomainManager
+----------------------------------------------------------------
+06/25/2019 15:47:37.753 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[42]) veriyDomainManager
+----------------------------------------------------------------
+06/25/2019 15:49:17.246 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[42]) veriyDomainManager
+----------------------------------------------------------------
+06/25/2019 15:53:32.554 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[42]) veriyDomainManager
+----------------------------------------------------------------
+06/25/2019 15:54:50.978 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[42]) veriyDomainManager
+----------------------------------------------------------------
+06/25/2019 16:03:37.685 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[42]) veriyDomainManager
+----------------------------------------------------------------
+06/25/2019 16:04:44.641 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[42]) veriyDomainManager
+----------------------------------------------------------------
+06/25/2019 16:05:48.627 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[42]) veriyDomainManager
+----------------------------------------------------------------
+06/25/2019 16:09:10.568 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[42]) veriyDomainManager
+----------------------------------------------------------------
+06/25/2019 16:59:25.710 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[42]) veriyDomainManager
+----------------------------------------------------------------
+06/25/2019 17:00:33.951 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[42]) veriyDomainManager
+----------------------------------------------------------------
+06/25/2019 17:04:55.112 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[42]) veriyDomainManager
+----------------------------------------------------------------
+06/25/2019 17:06:22.523 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[42]) veriyDomainManager
+----------------------------------------------------------------
+06/25/2019 17:39:30.389 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[42]) veriyDomainManager
+----------------------------------------------------------------
+06/25/2019 17:40:22.468 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[42]) veriyDomainManager
+----------------------------------------------------------------
+06/26/2019 10:03:50.307 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[42]) veriyDomainManager
+----------------------------------------------------------------
+06/26/2019 11:36:47.934 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[40]) veriyDomainManager
+----------------------------------------------------------------
+06/26/2019 12:34:51.160 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[40]) veriyDomainManager
+----------------------------------------------------------------
+06/26/2019 12:38:35.880 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[40]) veriyDomainManager
+----------------------------------------------------------------
+06/26/2019 12:44:49.062 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+06/26/2019 12:44:53.425 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[87]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+06/26/2019 12:50:13.206 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+06/26/2019 12:50:17.463 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[87]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+06/26/2019 12:57:01.853 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+06/26/2019 12:57:06.206 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[87]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+06/28/2019 16:20:33.112 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+06/28/2019 16:20:37.618 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[83]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+06/28/2019 16:23:02.555 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+06/28/2019 16:25:29.259 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+06/28/2019 16:25:33.531 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[83]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+06/28/2019 16:27:26.325 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+06/28/2019 16:28:18.301 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+06/28/2019 16:28:22.632 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[83]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+06/28/2019 16:28:43.247 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[182]) Add Service group fields are not visible
+----------------------------------------------------------------
+06/28/2019 16:28:49.271 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+06/28/2019 16:31:14.963 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+06/28/2019 16:31:19.301 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[83]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+06/28/2019 16:31:39.807 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[182]) Add Service group fields are not visible
+----------------------------------------------------------------
+06/28/2019 16:31:46.004 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+06/28/2019 16:31:50.284 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[83]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+06/28/2019 16:32:10.938 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[182]) Add Service group fields are not visible
+----------------------------------------------------------------
+07/01/2019 10:19:41.322 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+07/01/2019 10:19:46.172 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[83]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/01/2019 10:20:08.028 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[83]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/01/2019 10:22:01.961 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[83]) Available Text:  Unique ID:*
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/01/2019 10:22:37.133 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+07/01/2019 10:54:12.413 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+07/01/2019 10:54:16.796 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[83]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/01/2019 10:54:27.610 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[195]) Finish button not working properly
+----------------------------------------------------------------
+07/01/2019 11:16:15.733 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+07/01/2019 11:16:20.205 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[83]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/01/2019 11:17:26.064 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[83]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/01/2019 11:28:32.079 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+07/01/2019 11:28:36.378 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[83]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/01/2019 11:28:58.040 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[83]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/01/2019 11:29:53.693 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[83]) Available Text:  Unique ID:*
+Generate (Unique ID)
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/01/2019 11:29:55.395 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[83]) Available Text:  Generate (Unique ID)
+----------------------------------------------------------------
+07/01/2019 11:54:15.092 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+07/01/2019 11:54:19.451 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[83]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/01/2019 11:56:08.419 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+07/01/2019 11:56:12.774 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[83]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/01/2019 11:59:38.432 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+07/01/2019 11:59:42.782 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[83]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/01/2019 12:00:10.661 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[83]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/01/2019 12:01:33.034 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[83]) Available Text:  Unique ID:*
+Generate (Unique ID)
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/01/2019 12:01:34.744 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[83]) Available Text:  Generate (Unique ID)
+----------------------------------------------------------------
+07/01/2019 12:01:44.493 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[161]) Added Unique Id Is: 308481703
+----------------------------------------------------------------
+07/01/2019 12:09:23.611 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+07/01/2019 12:09:27.943 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[85]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/01/2019 12:09:55.805 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[85]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/01/2019 12:10:07.209 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[85]) Available Text:  Unique ID:*
+Generate (Unique ID)
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/01/2019 12:10:08.919 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[85]) Available Text:  Generate (Unique ID)
+----------------------------------------------------------------
+07/01/2019 12:10:09.075 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[161]) Added Unique Id Is: 408685288
+----------------------------------------------------------------
+07/01/2019 12:16:33.370 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+07/01/2019 12:16:37.947 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/01/2019 12:17:05.905 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/01/2019 12:17:17.285 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Unique ID:*
+Generate (Unique ID)
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/01/2019 12:17:19.008 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Generate (Unique ID)
+----------------------------------------------------------------
+07/01/2019 12:17:19.158 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[161]) Added Unique Id Is: 824397533
+----------------------------------------------------------------
+07/01/2019 12:19:13.806 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+07/01/2019 12:19:18.381 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/01/2019 12:19:46.380 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/01/2019 12:19:57.783 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Unique ID:*
+Generate (Unique ID)
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/01/2019 12:19:59.512 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Generate (Unique ID)
+----------------------------------------------------------------
+07/01/2019 12:19:59.664 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[161]) Added Unique Id Is: 315170136
+----------------------------------------------------------------
+07/01/2019 12:24:07.322 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+07/01/2019 12:24:11.662 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/01/2019 12:24:42.339 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/01/2019 12:24:53.735 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Unique ID:*
+Generate (Unique ID)
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/01/2019 12:24:55.449 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Generate (Unique ID)
+----------------------------------------------------------------
+07/01/2019 12:24:55.595 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[161]) Added Unique Id Is: 297622770
+----------------------------------------------------------------
+07/01/2019 12:26:40.664 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+07/01/2019 12:36:16.976 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+07/01/2019 12:36:21.325 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/01/2019 12:36:51.865 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/01/2019 12:37:03.252 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Unique ID:*
+Generate (Unique ID)
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/01/2019 12:37:04.956 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Generate (Unique ID)
+----------------------------------------------------------------
+07/01/2019 12:37:04.990 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[161]) Added Unique Id Is: 257052660
+----------------------------------------------------------------
+07/01/2019 12:41:18.621 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+07/01/2019 12:41:23.015 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/01/2019 12:41:53.764 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/01/2019 12:42:05.136 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Unique ID:*
+Generate (Unique ID)
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/01/2019 12:42:06.846 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Generate (Unique ID)
+----------------------------------------------------------------
+07/01/2019 12:42:06.882 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[161]) Added Unique Id Is: 498087177
+----------------------------------------------------------------
+07/01/2019 13:42:39.462 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+07/01/2019 13:42:43.768 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/01/2019 13:43:14.357 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/01/2019 13:43:25.737 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Unique ID:*
+Generate (Unique ID)
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/01/2019 13:43:27.452 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Generate (Unique ID)
+----------------------------------------------------------------
+07/01/2019 13:43:27.488 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[161]) Added Unique Id Is: 427946992
+----------------------------------------------------------------
+07/01/2019 13:44:39.074 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+07/02/2019 11:19:02.024 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+07/02/2019 11:19:06.612 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/02/2019 11:19:37.292 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/02/2019 11:19:48.789 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Unique ID:*
+Generate (Unique ID)
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/02/2019 11:19:50.589 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Generate (Unique ID)
+----------------------------------------------------------------
+07/02/2019 11:19:50.623 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[161]) Added Unique Id Is: 982392781
+----------------------------------------------------------------
+07/02/2019 12:52:37.720 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+07/02/2019 12:52:42.195 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/02/2019 12:53:12.849 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/02/2019 12:53:24.314 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Unique ID:*
+Generate (Unique ID)
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/02/2019 12:53:26.095 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Generate (Unique ID)
+----------------------------------------------------------------
+07/02/2019 12:53:26.134 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[161]) Added Unique Id Is: 956240124
+----------------------------------------------------------------
+07/04/2019 11:34:29.748 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+07/04/2019 11:34:34.363 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/04/2019 11:35:05.118 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/04/2019 11:35:16.547 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Unique ID:*
+Generate (Unique ID)
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/04/2019 11:35:18.343 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Generate (Unique ID)
+----------------------------------------------------------------
+07/04/2019 11:35:18.374 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[161]) Added Unique Id Is: 479891854
+----------------------------------------------------------------
+07/04/2019 11:36:28.506 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+07/04/2019 11:41:41.948 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+07/04/2019 11:41:46.548 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/04/2019 11:42:17.317 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/04/2019 11:42:28.777 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Unique ID:*
+Generate (Unique ID)
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/04/2019 11:42:30.570 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Generate (Unique ID)
+----------------------------------------------------------------
+07/04/2019 11:42:30.607 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[161]) Added Unique Id Is: 823336496
+----------------------------------------------------------------
+07/04/2019 14:47:34.336 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[52]) veriyAddOrganisation
+----------------------------------------------------------------
+07/04/2019 14:47:38.871 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/04/2019 14:48:09.504 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/04/2019 14:48:20.939 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Unique ID:*
+Generate (Unique ID)
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/04/2019 14:48:22.736 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Generate (Unique ID)
+----------------------------------------------------------------
+07/04/2019 14:48:22.770 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[161]) Added Unique Id Is: 967552883
+----------------------------------------------------------------
+07/04/2019 17:35:31.211 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[49]) veriyAddOrganisation
+----------------------------------------------------------------
+07/04/2019 17:35:36.003 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/04/2019 17:36:06.924 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/04/2019 17:36:18.429 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Unique ID:*
+Generate (Unique ID)
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/04/2019 17:36:20.234 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Generate (Unique ID)
+----------------------------------------------------------------
+07/04/2019 17:36:20.272 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[158]) Added Unique Id Is: 767776481
+----------------------------------------------------------------
+07/04/2019 17:39:23.072 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[49]) veriyAddOrganisation
+----------------------------------------------------------------
+07/04/2019 17:39:27.719 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/04/2019 17:39:58.737 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/04/2019 17:40:10.202 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Unique ID:*
+Generate (Unique ID)
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/04/2019 17:40:12.001 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Generate (Unique ID)
+----------------------------------------------------------------
+07/04/2019 17:40:12.039 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[158]) Added Unique Id Is: 494097353
+----------------------------------------------------------------
+07/04/2019 17:48:14.164 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/04/2019 17:48:18.738 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/04/2019 17:48:49.482 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/04/2019 17:49:00.946 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Unique ID:*
+Generate (Unique ID)
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/04/2019 17:49:02.743 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Generate (Unique ID)
+----------------------------------------------------------------
+07/04/2019 17:49:02.781 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 62232454
+----------------------------------------------------------------
+07/04/2019 17:52:02.518 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/04/2019 17:52:07.689 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/04/2019 17:52:38.493 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/04/2019 17:52:49.957 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Unique ID:*
+Generate (Unique ID)
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/04/2019 17:52:51.747 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Generate (Unique ID)
+----------------------------------------------------------------
+07/04/2019 17:52:51.783 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 711101235
+----------------------------------------------------------------
+07/09/2019 11:23:08.991 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/09/2019 11:23:13.523 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/09/2019 11:23:44.144 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/09/2019 11:23:55.576 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Unique ID:*
+Generate (Unique ID)
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/09/2019 11:23:57.374 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Generate (Unique ID)
+----------------------------------------------------------------
+07/09/2019 11:23:57.411 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 633243506
+----------------------------------------------------------------
+07/09/2019 12:02:32.478 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/09/2019 12:02:36.923 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/09/2019 12:03:07.738 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/09/2019 12:03:19.170 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Unique ID:*
+Generate (Unique ID)
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/09/2019 12:03:20.960 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Generate (Unique ID)
+----------------------------------------------------------------
+07/09/2019 12:03:20.995 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 25242619
+----------------------------------------------------------------
+07/09/2019 12:07:28.289 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/09/2019 12:07:32.864 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/09/2019 12:08:03.533 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/09/2019 12:08:14.971 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Unique ID:*
+Generate (Unique ID)
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/09/2019 12:08:16.758 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Generate (Unique ID)
+----------------------------------------------------------------
+07/09/2019 12:08:16.792 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 695978057
+----------------------------------------------------------------
+07/09/2019 12:20:36.641 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/09/2019 12:20:41.379 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/09/2019 12:21:12.058 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/09/2019 12:21:23.508 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Unique ID:*
+Generate (Unique ID)
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/09/2019 12:21:25.313 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Generate (Unique ID)
+----------------------------------------------------------------
+07/09/2019 12:21:25.348 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 225366199
+----------------------------------------------------------------
+07/09/2019 18:14:04.282 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/09/2019 18:14:08.859 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/09/2019 18:14:39.524 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/09/2019 18:14:50.974 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Unique ID:*
+Generate (Unique ID)
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/09/2019 18:14:52.749 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Generate (Unique ID)
+----------------------------------------------------------------
+07/09/2019 18:14:52.787 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 378268702
+----------------------------------------------------------------
+07/09/2019 18:15:42.620 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[221]) Bill Setup Profile Page not working
+----------------------------------------------------------------
+07/09/2019 18:17:33.916 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/09/2019 18:17:38.405 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/09/2019 18:18:09.032 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/09/2019 18:18:20.445 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Unique ID:*
+Generate (Unique ID)
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/09/2019 18:18:22.229 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Generate (Unique ID)
+----------------------------------------------------------------
+07/09/2019 18:18:22.263 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 787457739
+----------------------------------------------------------------
+07/09/2019 18:18:42.201 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[221]) Bill Setup Profile Page not working
+----------------------------------------------------------------
+07/09/2019 18:22:21.773 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/09/2019 18:22:26.313 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/09/2019 18:22:57.000 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/09/2019 18:23:08.466 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Unique ID:*
+Generate (Unique ID)
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/09/2019 18:23:10.259 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Generate (Unique ID)
+----------------------------------------------------------------
+07/09/2019 18:23:10.294 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 125923225
+----------------------------------------------------------------
+07/09/2019 18:23:33.219 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[223]) Bill Setup Profile Page not working
+----------------------------------------------------------------
+07/09/2019 18:26:04.690 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/09/2019 18:26:09.106 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/09/2019 18:26:39.789 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/09/2019 18:26:51.373 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Unique ID:*
+Generate (Unique ID)
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/09/2019 18:26:53.125 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Generate (Unique ID)
+----------------------------------------------------------------
+07/09/2019 18:26:53.157 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 882391332
+----------------------------------------------------------------
+07/10/2019 11:49:32.633 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/10/2019 11:49:37.281 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Organisations & Contacts
+----------------------------------------------------------------
+07/10/2019 11:50:08.082 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Add Service Group
+----------------------------------------------------------------
+07/10/2019 11:50:19.531 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Unique ID:*
+Generate (Unique ID)
+Name:
+Type:*
+Domain:*
+PO Number:
+BillTo Contact:*
+ShipTo Contact:
+Installation Address A:
+Installation Address B:
+Place of Consumption:
+Physical Bill:
+Apply Service Bar:
+Created Date:
+----------------------------------------------------------------
+07/10/2019 11:50:21.330 IST INFO  (CommonsClass.CommonClass:>>>GetAvailableText:[86]) Available Text:  Generate (Unique ID)
+----------------------------------------------------------------
+07/10/2019 11:50:21.380 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 524695266
+----------------------------------------------------------------
+07/10/2019 12:37:31.467 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/10/2019 12:38:19.946 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 783597920
+----------------------------------------------------------------
+07/10/2019 12:45:13.522 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/10/2019 12:46:02.313 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 804812827
+----------------------------------------------------------------
+07/10/2019 12:49:45.058 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/10/2019 12:50:33.935 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 559303529
+----------------------------------------------------------------
+07/10/2019 13:40:59.297 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/10/2019 13:41:48.050 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 471463270
+----------------------------------------------------------------
+07/10/2019 14:29:10.215 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/10/2019 14:29:58.745 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 121485622
+----------------------------------------------------------------
+07/10/2019 14:34:18.117 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/10/2019 14:35:06.583 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 832133223
+----------------------------------------------------------------
+07/10/2019 14:38:10.616 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/10/2019 14:38:59.101 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 991196027
+----------------------------------------------------------------
+07/11/2019 17:02:30.729 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/11/2019 17:03:19.450 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 469201605
+----------------------------------------------------------------
+07/12/2019 11:14:38.815 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/12/2019 11:15:27.398 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 617021234
+----------------------------------------------------------------
+07/12/2019 14:27:46.328 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/12/2019 14:28:35.179 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 673942605
+----------------------------------------------------------------
+07/12/2019 16:38:25.744 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/12/2019 16:39:14.572 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 716278530
+----------------------------------------------------------------
+07/12/2019 16:43:17.304 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/12/2019 16:44:06.063 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 408431789
+----------------------------------------------------------------
+07/12/2019 16:52:27.683 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/12/2019 16:53:16.431 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 923088280
+----------------------------------------------------------------
+07/15/2019 12:06:26.015 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/15/2019 12:07:14.495 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 137494048
+----------------------------------------------------------------
+07/15/2019 12:34:56.023 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/15/2019 12:35:44.662 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 543792349
+----------------------------------------------------------------
+07/15/2019 12:45:42.755 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/15/2019 12:46:31.349 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 724845903
+----------------------------------------------------------------
+07/15/2019 12:51:54.571 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/15/2019 12:52:43.063 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 862123435
+----------------------------------------------------------------
+07/15/2019 17:14:55.582 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/15/2019 17:15:43.979 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 785536258
+----------------------------------------------------------------
+07/15/2019 17:16:48.932 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[298]) Invoice button is not clickable
+----------------------------------------------------------------
+07/15/2019 17:18:54.661 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/15/2019 17:19:43.071 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 43926523
+----------------------------------------------------------------
+07/15/2019 17:24:03.710 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/15/2019 17:24:52.264 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 46325290
+----------------------------------------------------------------
+07/15/2019 17:33:48.461 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/15/2019 17:34:36.796 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 760369830
+----------------------------------------------------------------
+07/15/2019 18:24:32.414 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/15/2019 18:25:20.836 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 560313669
+----------------------------------------------------------------
+07/17/2019 11:40:42.122 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/17/2019 11:41:30.716 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 491651808
+----------------------------------------------------------------
+07/17/2019 12:15:38.491 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[67]) VerifyDmainText
+----------------------------------------------------------------
+07/17/2019 12:17:28.316 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[41]) veriyDomainManager
+----------------------------------------------------------------
+07/18/2019 17:39:49.866 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[67]) VerifyDmainText
+----------------------------------------------------------------
+07/18/2019 17:42:24.354 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/18/2019 17:43:12.940 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 925451526
+----------------------------------------------------------------
+07/18/2019 17:46:48.844 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/18/2019 17:47:40.891 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 519631366
+----------------------------------------------------------------
+07/19/2019 11:37:45.478 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/19/2019 11:38:34.109 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 700424248
+----------------------------------------------------------------
+07/23/2019 14:37:55.668 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/23/2019 14:38:44.193 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 350965207
+----------------------------------------------------------------
+07/23/2019 14:45:45.891 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/23/2019 14:46:34.332 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 960544237
+----------------------------------------------------------------
+07/23/2019 15:16:22.646 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/23/2019 15:17:16.095 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 230896269
+----------------------------------------------------------------
+07/24/2019 11:12:02.723 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/24/2019 11:12:51.647 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 301211065
+----------------------------------------------------------------
+07/31/2019 16:43:07.983 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+07/31/2019 17:05:08.621 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+08/12/2019 15:51:34.801 IST INFO  (testPages.LoginPageTest:>>>verifyLogOut:[175]) verifyLogOut
+----------------------------------------------------------------
+08/12/2019 15:51:51.388 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[44]) Verify Valid Login Details
+----------------------------------------------------------------
+08/12/2019 15:51:51.405 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[47]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+08/12/2019 15:52:01.769 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[150]) verifyTextOnLoginPage
+----------------------------------------------------------------
+08/12/2019 15:52:01.769 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[151]) Test Case: Verify all Text on login field
+----------------------------------------------------------------
+08/12/2019 15:52:15.440 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[68]) Verify Invalid Login Details
+----------------------------------------------------------------
+08/12/2019 15:52:15.461 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[72]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+08/13/2019 14:07:55.664 IST INFO  (testPages.LoginPageTest:>>>verifyLogOut:[175]) verifyLogOut
+----------------------------------------------------------------
+08/13/2019 14:08:12.305 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[44]) Verify Valid Login Details
+----------------------------------------------------------------
+08/13/2019 14:08:12.310 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[47]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+08/13/2019 14:08:22.651 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[150]) verifyTextOnLoginPage
+----------------------------------------------------------------
+08/13/2019 14:08:22.652 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[151]) Test Case: Verify all Text on login field
+----------------------------------------------------------------
+08/13/2019 14:08:36.355 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[68]) Verify Invalid Login Details
+----------------------------------------------------------------
+08/13/2019 14:08:36.377 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[72]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+08/13/2019 14:09:33.015 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+08/13/2019 14:12:46.278 IST INFO  (testPages.CalculateTimeTest:>>>veriySearchTime:[43]) veriySearchTime()
+----------------------------------------------------------------
+08/13/2019 14:13:30.893 IST INFO  (testPages.ServicePlanTest:>>>veriyAddServicePlan:[48]) veriyAddServicePlan
+----------------------------------------------------------------
+08/13/2019 14:14:57.492 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[67]) VerifyDmainText
+----------------------------------------------------------------
+08/13/2019 14:16:58.737 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[41]) veriyDomainManager
+----------------------------------------------------------------
+08/13/2019 14:17:31.927 IST INFO  (testPages.LoginPageTest:>>>verifyLogOut:[175]) verifyLogOut
+----------------------------------------------------------------
+08/13/2019 14:17:44.194 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[44]) Verify Valid Login Details
+----------------------------------------------------------------
+08/13/2019 14:17:44.201 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[47]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+08/13/2019 14:17:48.419 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[150]) verifyTextOnLoginPage
+----------------------------------------------------------------
+08/13/2019 14:17:48.421 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[151]) Test Case: Verify all Text on login field
+----------------------------------------------------------------
+08/13/2019 14:17:56.419 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[68]) Verify Invalid Login Details
+----------------------------------------------------------------
+08/13/2019 14:17:56.425 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[72]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+08/13/2019 14:18:28.050 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+08/13/2019 14:19:16.938 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 654722436
+----------------------------------------------------------------
+08/13/2019 14:20:44.453 IST INFO  (testPages.ServicePlanTest:>>>veriyAddServicePlan:[48]) veriyAddServicePlan
+----------------------------------------------------------------
+08/13/2019 14:21:17.262 IST INFO  (testPages.CalculateTimeTest:>>>veriySearchTime:[43]) veriySearchTime()
+----------------------------------------------------------------
+08/13/2019 14:22:37.105 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[67]) VerifyDmainText
+----------------------------------------------------------------
+08/13/2019 14:24:27.115 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[41]) veriyDomainManager
+----------------------------------------------------------------
+08/13/2019 15:47:21.310 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[50]) veriyAddOrganisation
+----------------------------------------------------------------
+08/13/2019 15:48:10.094 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[159]) Added Unique Id Is: 328770554
+----------------------------------------------------------------
+09/03/2019 12:32:25.898 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[51]) veriyAddOrganisation
+----------------------------------------------------------------
+09/03/2019 12:33:46.060 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[333]) Search organisation field not working
+----------------------------------------------------------------
+09/06/2019 16:33:17.997 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[51]) veriyAddOrganisation
+----------------------------------------------------------------
+09/06/2019 16:34:37.977 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[333]) Search organisation field not working
+----------------------------------------------------------------
+09/12/2019 14:59:13.283 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[51]) veriyAddOrganisation
+----------------------------------------------------------------
+09/12/2019 15:00:33.050 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[333]) Search organisation field not working
+----------------------------------------------------------------
+09/13/2019 14:52:06.623 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[51]) veriyAddOrganisation
+----------------------------------------------------------------
+09/13/2019 14:53:26.507 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[333]) Search organisation field not working
+----------------------------------------------------------------
+09/16/2019 17:01:27.346 IST INFO  (testPages.LoginPageTest:>>>verifyLogOut:[175]) verifyLogOut
+----------------------------------------------------------------
+09/16/2019 17:01:37.734 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[44]) Verify Valid Login Details
+----------------------------------------------------------------
+09/16/2019 17:01:37.745 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[47]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+09/16/2019 17:01:42.346 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[150]) verifyTextOnLoginPage
+----------------------------------------------------------------
+09/16/2019 17:01:42.346 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[151]) Test Case: Verify all Text on login field
+----------------------------------------------------------------
+09/16/2019 17:01:50.515 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[68]) Verify Invalid Login Details
+----------------------------------------------------------------
+09/16/2019 17:01:50.528 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[72]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+09/16/2019 17:05:08.100 IST INFO  (testPages.ServicePlanTest:>>>veriyAddServicePlan:[48]) veriyAddServicePlan
+----------------------------------------------------------------
+09/16/2019 17:06:27.532 IST INFO  (testPages.CalculateTimeTest:>>>veriySearchTime:[43]) veriySearchTime()
+----------------------------------------------------------------
+09/16/2019 17:12:46.949 IST INFO  (testPages.CalculateTimeTest:>>>veriySearchTime:[43]) veriySearchTime()
+----------------------------------------------------------------
+09/16/2019 17:13:57.889 IST INFO  (testPages.CalculateTimeTest:>>>veriySearchTime:[43]) veriySearchTime()
+----------------------------------------------------------------
+09/16/2019 17:15:08.333 IST INFO  (testPages.CalculateTimeTest:>>>veriySearchTime:[43]) veriySearchTime()
+----------------------------------------------------------------
+09/17/2019 16:25:11.299 IST INFO  (testPages.CalculateTimeTest:>>>veriySearchTime:[43]) veriySearchTime()
+----------------------------------------------------------------
+09/17/2019 17:01:21.585 IST INFO  (testPages.CalculateTimeTest:>>>veriySearchTime:[43]) veriySearchTime()
+----------------------------------------------------------------
+09/23/2019 14:59:26.183 IST INFO  (testPages.LoginPageTest:>>>verifyLogOut:[175]) verifyLogOut
+----------------------------------------------------------------
+09/23/2019 14:59:41.888 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[44]) Verify Valid Login Details
+----------------------------------------------------------------
+09/23/2019 14:59:41.904 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[47]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+09/23/2019 14:59:51.522 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[150]) verifyTextOnLoginPage
+----------------------------------------------------------------
+09/23/2019 14:59:51.523 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[151]) Test Case: Verify all Text on login field
+----------------------------------------------------------------
+09/23/2019 15:00:05.036 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[68]) Verify Invalid Login Details
+----------------------------------------------------------------
+09/23/2019 15:00:05.050 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[72]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+09/23/2019 15:00:59.696 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[51]) veriyAddOrganisation
+----------------------------------------------------------------
+09/23/2019 15:02:20.494 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[333]) Search organisation field not working
+----------------------------------------------------------------
+09/23/2019 15:02:31.144 IST INFO  (testPages.CalculateTimeTest:>>>veriySearchTime:[43]) veriySearchTime()
+----------------------------------------------------------------
+09/23/2019 15:02:45.232 IST INFO  (testPages.ServicePlanTest:>>>veriyAddServicePlan:[48]) veriyAddServicePlan
+----------------------------------------------------------------
+09/23/2019 15:04:10.607 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[67]) VerifyDmainText
+----------------------------------------------------------------
+09/23/2019 15:06:10.779 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[41]) veriyDomainManager
+----------------------------------------------------------------
+09/23/2019 15:07:05.223 IST INFO  (testPages.SettingsPageTest:>>>VerifyChartOfAccount:[100]) Finance Tab is not opens.
+----------------------------------------------------------------
+09/23/2019 15:07:08.528 IST INFO  (testPages.LoginPageTest:>>>verifyLogOut:[175]) verifyLogOut
+----------------------------------------------------------------
+09/23/2019 15:07:18.774 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[44]) Verify Valid Login Details
+----------------------------------------------------------------
+09/23/2019 15:07:18.784 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[47]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+09/23/2019 15:07:24.074 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[150]) verifyTextOnLoginPage
+----------------------------------------------------------------
+09/23/2019 15:07:24.075 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[151]) Test Case: Verify all Text on login field
+----------------------------------------------------------------
+09/23/2019 15:07:31.995 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[68]) Verify Invalid Login Details
+----------------------------------------------------------------
+09/23/2019 15:07:32.002 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[72]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+09/23/2019 15:08:03.884 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[51]) veriyAddOrganisation
+----------------------------------------------------------------
+09/23/2019 15:09:25.586 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[333]) Search organisation field not working
+----------------------------------------------------------------
+09/23/2019 15:09:39.647 IST INFO  (testPages.ServicePlanTest:>>>veriyAddServicePlan:[48]) veriyAddServicePlan
+----------------------------------------------------------------
+09/23/2019 15:10:27.642 IST INFO  (testPages.CalculateTimeTest:>>>veriySearchTime:[43]) veriySearchTime()
+----------------------------------------------------------------
+09/23/2019 15:11:19.712 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[67]) VerifyDmainText
+----------------------------------------------------------------
+09/23/2019 15:13:20.322 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[41]) veriyDomainManager
+----------------------------------------------------------------
+09/23/2019 15:14:13.306 IST INFO  (testPages.SettingsPageTest:>>>VerifyChartOfAccount:[100]) Finance Tab is not opens.
+----------------------------------------------------------------
+11/06/2019 17:33:59.446 IST INFO  (testPages.LoginPageTest:>>>verifyLogOut:[175]) verifyLogOut
+----------------------------------------------------------------
+11/06/2019 17:39:16.105 IST INFO  (testPages.LoginPageTest:>>>verifyLogOut:[175]) verifyLogOut
+----------------------------------------------------------------
+11/06/2019 17:39:32.843 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[44]) Verify Valid Login Details
+----------------------------------------------------------------
+11/06/2019 17:39:32.857 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[47]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+11/06/2019 17:39:43.640 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[150]) verifyTextOnLoginPage
+----------------------------------------------------------------
+11/06/2019 17:39:43.640 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[151]) Test Case: Verify all Text on login field
+----------------------------------------------------------------
+11/06/2019 17:39:57.730 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[68]) Verify Invalid Login Details
+----------------------------------------------------------------
+11/06/2019 17:39:57.734 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[72]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+11/06/2019 17:41:26.970 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[51]) veriyAddOrganisation
+----------------------------------------------------------------
+11/06/2019 17:42:47.792 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[333]) Search organisation field not working
+----------------------------------------------------------------
+11/06/2019 17:42:58.686 IST INFO  (testPages.CalculateTimeTest:>>>veriySearchTime:[43]) veriySearchTime()
+----------------------------------------------------------------
+11/06/2019 17:43:43.347 IST INFO  (testPages.ServicePlanTest:>>>veriyAddServicePlan:[48]) veriyAddServicePlan
+----------------------------------------------------------------
+11/06/2019 17:44:41.574 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[67]) VerifyDmainText
+----------------------------------------------------------------
+11/06/2019 17:46:14.861 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[41]) veriyDomainManager
+----------------------------------------------------------------
+11/06/2019 17:46:48.032 IST INFO  (testPages.LoginPageTest:>>>verifyLogOut:[175]) verifyLogOut
+----------------------------------------------------------------
+12/24/2019 14:59:46.507 IST INFO  (testPages.LoginPageTest:>>>verifyLogOut:[175]) verifyLogOut
+----------------------------------------------------------------
+12/24/2019 15:00:05.692 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[44]) Verify Valid Login Details
+----------------------------------------------------------------
+12/24/2019 15:00:05.700 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[47]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+12/24/2019 15:00:16.534 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[150]) verifyTextOnLoginPage
+----------------------------------------------------------------
+12/24/2019 15:00:16.534 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[151]) Test Case: Verify all Text on login field
+----------------------------------------------------------------
+12/24/2019 15:00:30.867 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[68]) Verify Invalid Login Details
+----------------------------------------------------------------
+12/24/2019 15:00:30.952 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[72]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+12/31/2019 11:44:16.622 IST INFO  (testPages.LoginPageTest:>>>verifyLogOut:[175]) verifyLogOut
+----------------------------------------------------------------
+12/31/2019 11:44:36.340 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[44]) Verify Valid Login Details
+----------------------------------------------------------------
+12/31/2019 11:44:36.350 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[47]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+12/31/2019 11:44:47.255 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[150]) verifyTextOnLoginPage
+----------------------------------------------------------------
+12/31/2019 11:44:47.255 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[151]) Test Case: Verify all Text on login field
+----------------------------------------------------------------
+12/31/2019 11:45:01.342 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[68]) Verify Invalid Login Details
+----------------------------------------------------------------
+12/31/2019 11:45:01.354 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[72]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+12/31/2019 11:46:33.487 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[51]) veriyAddOrganisation
+----------------------------------------------------------------
+12/31/2019 11:47:54.568 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[333]) Search organisation field not working
+----------------------------------------------------------------
+12/31/2019 11:48:06.097 IST INFO  (testPages.CalculateTimeTest:>>>veriySearchTime:[43]) veriySearchTime()
+----------------------------------------------------------------
+12/31/2019 11:48:52.402 IST INFO  (testPages.ServicePlanTest:>>>veriyAddServicePlan:[48]) veriyAddServicePlan
+----------------------------------------------------------------
+12/31/2019 11:49:56.004 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[67]) VerifyDmainText
+----------------------------------------------------------------
+12/31/2019 11:51:29.554 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[41]) veriyDomainManager
+----------------------------------------------------------------
+12/31/2019 11:52:01.563 IST INFO  (testPages.LoginPageTest:>>>verifyLogOut:[175]) verifyLogOut
+----------------------------------------------------------------
+01/06/2020 12:33:43.685 IST INFO  (testPages.LoginPageTest:>>>verifyLogOut:[175]) verifyLogOut
+----------------------------------------------------------------
+01/06/2020 12:34:02.501 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[44]) Verify Valid Login Details
+----------------------------------------------------------------
+01/06/2020 12:34:02.521 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[47]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+01/06/2020 12:34:13.798 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[150]) verifyTextOnLoginPage
+----------------------------------------------------------------
+01/06/2020 12:34:13.803 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[151]) Test Case: Verify all Text on login field
+----------------------------------------------------------------
+01/06/2020 12:34:27.995 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[68]) Verify Invalid Login Details
+----------------------------------------------------------------
+01/06/2020 12:34:28.006 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[72]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+01/06/2020 12:35:55.405 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[51]) veriyAddOrganisation
+----------------------------------------------------------------
+01/06/2020 12:37:16.776 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[333]) Search organisation field not working
+----------------------------------------------------------------
