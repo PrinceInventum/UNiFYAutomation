@@ -56,7 +56,7 @@ public class TestBase {
 				ChromeOptions options = new ChromeOptions(); 
 				options.addArguments("disable-infobars"); 
 				
-				System.setProperty("webdriver.chrome.driver","/home/princeambast/Downloads/DRIVER/Chrome/chromedriver");
+				System.setProperty("webdriver.chrome.driver","/home/princeambast/Downloads/DRIVER/chromedriver");
 				driver = new ChromeDriver(options);
 			}
 

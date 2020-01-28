@@ -3,6 +3,8 @@ package com.unify.CommonsClass;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.List;
+import java.util.Scanner;
+
 import org.apache.log4j.Logger;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
@@ -127,15 +129,19 @@ public class CommonClass extends TestBase{
 
 	public boolean addValue(WebElement link, String text)
 	{
-		boolean value=false;
+		boolean val=false;
 
-		link.click();
-		link.sendKeys(text);
-
-		value = true;
-
-
-		return value;
+		try {
+			
+			Thread.sleep(500);
+			link.click();
+			link.sendKeys(text);
+			val = true;
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		return val;
 
 	}
 
@@ -258,7 +264,9 @@ public class CommonClass extends TestBase{
 	}
 
 
+	
+	
 
-
+	
 
 }

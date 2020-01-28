@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [UNIFY_Automation]">
+  <test thread-count="5" name="Debugging_Purpose(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.unify.testPages.BillingPageTest">
+        <methods>
+          <include name="VerifyRC_Charges"/>
+          <include name="setup"/>
+          <include name="setupBrowser"/>
+        </methods>
+      </class> <!-- com.unify.testPages.BillingPageTest -->
+    </classes>
+  </test> <!-- Debugging_Purpose(failed) -->
+</suite> <!-- Failed suite [UNIFY_Automation] -->
