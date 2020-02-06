@@ -1904,3 +1904,49 @@ Home page Title is: Unify Login
 ----------------------------------------------------------------
 01/06/2020 12:37:16.776 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[333]) Search organisation field not working
 ----------------------------------------------------------------
+01/28/2020 12:53:34.876 IST INFO  (testPages.LoginPageTest:>>>verifyLogOut:[175]) verifyLogOut
+----------------------------------------------------------------
+01/28/2020 12:54:37.308 IST INFO  (testPages.LoginPageTest:>>>verifyLogOut:[175]) verifyLogOut
+----------------------------------------------------------------
+01/28/2020 12:54:47.880 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[44]) Verify Valid Login Details
+----------------------------------------------------------------
+01/28/2020 12:54:47.893 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[47]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+01/28/2020 12:54:52.191 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[150]) verifyTextOnLoginPage
+----------------------------------------------------------------
+01/28/2020 12:54:52.192 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[151]) Test Case: Verify all Text on login field
+----------------------------------------------------------------
+01/28/2020 12:55:00.231 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[68]) Verify Invalid Login Details
+----------------------------------------------------------------
+01/28/2020 12:55:00.238 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[72]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+01/28/2020 12:56:34.993 IST INFO  (testPages.LoginPageTest:>>>verifyLogOut:[175]) verifyLogOut
+----------------------------------------------------------------
+01/28/2020 12:56:45.120 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[44]) Verify Valid Login Details
+----------------------------------------------------------------
+01/28/2020 12:56:45.127 IST INFO  (testPages.LoginPageTest:>>>verifyLogin:[47]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+01/28/2020 12:56:49.328 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[150]) verifyTextOnLoginPage
+----------------------------------------------------------------
+01/28/2020 12:56:49.329 IST INFO  (testPages.LoginPageTest:>>>verifyTextOnLoginPage:[151]) Test Case: Verify all Text on login field
+----------------------------------------------------------------
+01/28/2020 12:56:57.197 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[68]) Verify Invalid Login Details
+----------------------------------------------------------------
+01/28/2020 12:56:57.204 IST INFO  (testPages.LoginPageTest:>>>verifyiNVALIDLogin:[72]) 
+Home page Title is: Unify Login
+----------------------------------------------------------------
+01/28/2020 12:58:00.576 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[51]) veriyAddOrganisation
+----------------------------------------------------------------
+01/28/2020 12:59:22.919 IST INFO  (testPages.CreateOrganisationTest:>>>veriyAddOrganisation:[333]) Search organisation field not working
+----------------------------------------------------------------
+01/28/2020 12:59:29.319 IST INFO  (testPages.ServicePlanTest:>>>veriyAddServicePlan:[48]) veriyAddServicePlan
+----------------------------------------------------------------
+01/28/2020 13:00:12.389 IST INFO  (testPages.CalculateTimeTest:>>>veriySearchTime:[43]) veriySearchTime()
+----------------------------------------------------------------
+01/28/2020 13:01:04.536 IST INFO  (testPages.DomainManagerTest:>>>VerifyParentDomainText:[67]) VerifyDmainText
+----------------------------------------------------------------
+01/28/2020 13:02:25.426 IST INFO  (testPages.DomainManagerTest:>>>veriyDomainManager:[41]) veriyDomainManager
+----------------------------------------------------------------

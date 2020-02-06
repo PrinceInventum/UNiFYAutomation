@@ -26,7 +26,8 @@ public class BillingPage extends TestBase {
 	@FindBy(name="billRecCharges.brcdesc")
 	public WebElement rcName;
 	
-	
+	@FindBy(id="multiDomainID-inputEl")
+	public WebElement multiDomain;
 	
 	
 	public BillingPage(){

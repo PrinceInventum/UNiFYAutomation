@@ -24,7 +24,7 @@
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
       <br/>
-      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+      <span class="top-banner-font-1">1 suite</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -38,7 +38,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" class="navigator-link" panel-name="suite-UNIFY_Automation">
-              <span class="suite-name border-failed">UNIFY_Automation</span>
+              <span class="suite-name border-passed">UNIFY_Automation</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -91,21 +91,21 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">1 method, 1 failed,   </span>
+                    <span class="method-stats">1 method,   1 passed</span>
                   </li>
                   <li>
-                    <span class="method-list-title failed">Failed methods</span>
-                    <span class="show-or-hide-methods failed">
-                      <a href="#" panel-name="suite-UNIFY_Automation" class="hide-methods failed suite-UNIFY_Automation"> (hide)</a> <!-- hide-methods failed suite-UNIFY_Automation -->
-                      <a href="#" panel-name="suite-UNIFY_Automation" class="show-methods failed suite-UNIFY_Automation"> (show)</a> <!-- show-methods failed suite-UNIFY_Automation -->
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-UNIFY_Automation" class="hide-methods passed suite-UNIFY_Automation"> (hide)</a> <!-- hide-methods passed suite-UNIFY_Automation -->
+                      <a href="#" panel-name="suite-UNIFY_Automation" class="show-methods passed suite-UNIFY_Automation"> (show)</a> <!-- show-methods passed suite-UNIFY_Automation -->
                     </span>
-                    <div class="method-list-content failed suite-UNIFY_Automation">
+                    <div class="method-list-content passed suite-UNIFY_Automation">
                       <span>
-                        <img width="3%" src="failed.png"/>
+                        <img width="3%" src="passed.png"/>
                         <a href="#" class="method navigator-link" panel-name="suite-UNIFY_Automation" title="com.unify.testPages.BillingPageTest" hash-for-method="VerifyRC_Charges">VerifyRC_Charges</a> <!-- method navigator-link -->
                       </span>
                       <br/>
-                    </div> <!-- method-list-content failed suite-UNIFY_Automation -->
+                    </div> <!-- method-list-content passed suite-UNIFY_Automation -->
                   </li>
                 </ul>
               </div> <!-- suite-section-content -->
@@ -117,9 +117,9 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-UNIFY_Automation" class="panel UNIFY_Automation">
-          <div class="suite-UNIFY_Automation-class-failed">
+          <div class="suite-UNIFY_Automation-class-passed">
             <div class="main-panel-header rounded-window-top">
-              <img src="failed.png"/>
+              <img src="passed.png"/>
               <span class="class-name">com.unify.testPages.BillingPageTest</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
@@ -128,15 +128,10 @@
                   <a name="VerifyRC_Charges">
                   </a> <!-- VerifyRC_Charges -->
                   <span class="method-name">VerifyRC_Charges</span>
-                  <div class="stack-trace">java.lang.AssertionError: The following asserts failed:
-	Not able to add RC  expected [true] but found [false]
-	at com.unify.testPages.BillingPageTest.VerifyRC_Charges(BillingPageTest.java:94)
-... Removed 26 stack frames
-</div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-UNIFY_Automation-class-failed -->
+          </div> <!-- suite-UNIFY_Automation-class-passed -->
         </div> <!-- panel UNIFY_Automation -->
         <div panel-name="test-xml-UNIFY_Automation" class="panel">
           <div class="main-panel-header rounded-window-top">
@@ -194,12 +189,12 @@ data.addRows(1);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'VerifyRC_Charges')
 data.setCell(0, 2, 'com.unify.testPages.BillingPageTest')
-data.setCell(0, 3, 36237);
+data.setCell(0, 3, 6225);
 window.suiteTableData['UNIFY_Automation']= { tableData: data, tableDiv: 'times-div-UNIFY_Automation'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 36 seconds</span>
+              <span class="suite-total-time">Total running time: 6 seconds</span>
               <div id="times-div-UNIFY_Automation">
               </div> <!-- times-div-UNIFY_Automation -->
             </div> <!-- times-div -->
@@ -232,13 +227,11 @@ return data;
               </div> <!-- configuration-method before -->
               <div class="configuration-method before">
                 <span class="method-name">setup</span>
-                <span class="method-start">5868 ms</span>
+                <span class="method-start">2345 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
-                <img src="failed.png">
-                </img>
                 <span class="method-name">VerifyRC_Charges</span>
-                <span class="method-start">11104 ms</span>
+                <span class="method-start">5491 ms</span>
               </div> <!-- test-method -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

@@ -1,16 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [UNIFY_Automation]">
-  <test thread-count="5" name="Debugging_Purpose(failed)">
+  <test thread-count="5" name="TestChrome(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.unify.testPages.BillingPageTest">
+      <class name="com.unify.testPages.SettingsPageTest">
         <methods>
-          <include name="VerifyRC_Charges"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="VerifyChartOfAccount"/>
+          <include name="setupBrowser"/>
+        </methods>
+      </class> <!-- com.unify.testPages.SettingsPageTest -->
+      <class name="com.unify.testPages.CreateOrganisationTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="veriyAddOrganisation"/>
+          <include name="setupBrowser"/>
+        </methods>
+      </class> <!-- com.unify.testPages.CreateOrganisationTest -->
+      <class name="com.unify.testPages.DomainManagerTest">
+        <methods>
+          <include name="VerifyParentDomainText"/>
+          <include name="tearDown"/>
           <include name="setup"/>
           <include name="setupBrowser"/>
         </methods>
-      </class> <!-- com.unify.testPages.BillingPageTest -->
+      </class> <!-- com.unify.testPages.DomainManagerTest -->
+      <class name="com.unify.testPages.ServicePlanTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="setupBrowser"/>
+          <include name="veriyAddServicePlan"/>
+        </methods>
+      </class> <!-- com.unify.testPages.ServicePlanTest -->
     </classes>
-  </test> <!-- Debugging_Purpose(failed) -->
+  </test> <!-- TestChrome(failed) -->
 </suite> <!-- Failed suite [UNIFY_Automation] -->

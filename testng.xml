@@ -10,8 +10,8 @@
 		
 	</listeners> -->
 
-
-	<!-- <test name="TestFirefox">
+<!-- 
+	<test name="TestFirefox">
 		<parameter name="browser" value="firefox" />
 		<classes>
 			<class name="com.unify.testPages.LoginPageTest" />
@@ -23,9 +23,9 @@
 			<class name="com.unify.testPages.SettingsPageTest" />
 
 		</classes>
-	</test>
+	</test> -->
 
-	<test name="TestChrome">
+	<!-- <test name="TestChrome">
 		<parameter name="browser" value="chrome" />
 		<classes>
 			<class name="com.unify.testPages.LoginPageTest" />
